@@ -1,2 +1,1 @@
-# Statistical-Optimization
-Statistical science and optimization techniques
+Material about my upcoming book on computational statistics and statistical optimization techniques.
