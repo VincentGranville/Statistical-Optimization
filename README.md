@@ -1,1 +1,1 @@
-Material about my upcoming book on computational statistics and statistical optimization techniques.
+Material about my upcoming book on computational statistics and statistical optimization techniques. See also my gradient descent technique <a href="https://github.com/VincentGranville/Experimental-Math-Number-Theory/tree/main/Source-Code">in this folder</a>.
