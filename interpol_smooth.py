@@ -13,7 +13,7 @@ seed = 13       # to initiate random number generator
 
 #--- create locations for training set
 
-width = 2
+width = 2 
 height = 1
 np.random.seed(seed)
 x = np.random.uniform(0, width, n)
