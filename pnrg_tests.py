@@ -3,15 +3,15 @@ from collections import OrderedDict
 
 #--- [1] Functions to generate random digits
 
-def get_next_digit(x, p, q, mod, step, base, option = "Home-Made"):
+def get_next_digit(x, p, q, tau, step, base, option = "Home-Made"):
 
     if option == "Numpy":
         digit = np.random.randint(0, base)
     elif option == "Home-Made":
-        x =  ((p * x) // q) % mod  # integer division for big int
-        mod += step
+        x =  ((p * x) // q) % tau  # integer division for big int
+        tau += step
         digit = x % base
-    return(digit, x, mod)
+    return(digit, x, tau)
 
 
 def update_runs(digit, old_digit, run, max_run, hash_runs):
@@ -68,7 +68,7 @@ def update_cp(digit, k, buffer, max_lag, N, cp_data):
     return(cp_data, buffer)
 
 
-def generate_digits(N, x0, p, q, mod, step, base, block_size, max_lag, option = "Home-Made"):
+def generate_digits(N, x0, p, q, tau, step, base, block_size, max_lag, option = "Home-Made"):
 
     # Main function. Also produces output to test randomnes:
     #     - hash_runs and max_run: input for the run_test function
@@ -97,7 +97,7 @@ def generate_digits(N, x0, p, q, mod, step, base, block_size, max_lag, option = 
     for k in range(2, N): 
 
         old_digit = digit
-        (digit, x, mod) = get_next_digit(x, p, q, mod, step, base, option) 
+        (digit, x, tau) = get_next_digit(x, p, q, tau, step, base, option) 
         (run, max_run, hash_runs) = update_runs(digit, old_digit, run, max_run, hash_runs)
         (m, block, hash_blocks) = update_blocks(digit, m, block, base, block_size, hash_blocks)
         (cp_data, buffer) = update_cp(digit, k, buffer, max_lag, N, cp_data)
@@ -280,7 +280,7 @@ p = 7                 # p/q must > 1, preferably >= 1.5
 q = 4                 # I tried q = 2, 4, 8, 16 and so on only 
 base = q              # digit base, base <= q (base = 2 and base = q work) 
 x0 = 50001            # seed to start the bigint sequence in PRNG
-mod  = 41197          # co-seed of home-made PRNG
+tau  = 41197          # co-seed of home-made PRNG
 step = 37643          # co-seed of home-made PRNG
 digit = -1            # fictitious digit before creating real ones 
 block_size = 6        # digits per block for the block test; must be integer > 0
@@ -294,7 +294,7 @@ np.random.seed(seed)
 p, q, base, block_size = 7, 4, 4, 6
 
 # generate random digits, home-made PRNG
-(hash_runs, hash_blocks, max_run, cp_data) = generate_digits(N, x0, p, q, mod, step,  
+(hash_runs, hash_blocks, max_run, cp_data) = generate_digits(N, x0, p, q, tau, step,  
                                                              base, block_size, max_lag, 
                                                              option="Home-Made")
 # run_test
@@ -316,7 +316,7 @@ print("KS = %8.5f\n\n" %(KS))
 p, q, base, block_size = 6, 4, 4, 6   
 
 # generate random digits, home-made PRNG
-(hash_runs, hash_blocks, max_run, cp_data) = generate_digits(N, x0, p, q, mod, step,  
+(hash_runs, hash_blocks, max_run, cp_data) = generate_digits(N, x0, p, q, tau, step,  
                                                              base, block_size, max_lag, 
                                                              option="Home-Made")
 # run_test
@@ -337,7 +337,7 @@ print("KS = %8.5f\n\n" %(KS))
 p, q, base, block_size = 7, 4, 8, 6  
 
 # generate random digits, home-made PRNG
-(hash_runs, hash_blocks, max_run, cp_data) = generate_digits(N, x0, p, q, mod, step,  
+(hash_runs, hash_blocks, max_run, cp_data) = generate_digits(N, x0, p, q, tau, step,  
                                                              base, block_size, max_lag, 
                                                              option="Home-Made")
 # run_test
@@ -358,7 +358,7 @@ print("KS = %8.5f\n\n" %(KS))
 p, q, base, block_size = 401, 256, 256, 6  
 
 # generate random digits, home-made PRNG
-(hash_runs, hash_blocks, max_run, cp_data) = generate_digits(N, x0, p, q, mod, step,  
+(hash_runs, hash_blocks, max_run, cp_data) = generate_digits(N, x0, p, q, tau, step,  
                                                              base, block_size, max_lag, 
                                                              option="Home-Made")
 # run_test
@@ -381,7 +381,7 @@ print("KS = %8.5f\n\n" %(KS))
 base, block_size = 4, 6 
 
 # generate random digits, home-made PRNG
-(hash_runs, hash_blocks, max_run, cp_data) = generate_digits(N, x0, p, q, mod, step,  
+(hash_runs, hash_blocks, max_run, cp_data) = generate_digits(N, x0, p, q, tau, step,  
                                                              base, block_size, max_lag, 
                                                              option="Numpy")
 # run_test
