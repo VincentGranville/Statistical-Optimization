@@ -107,7 +107,7 @@ frame = 0
 
 for iter in range(niter):
 
-    k = np.random.randint(0, N) 
+    k = iter % N  # also try: k = np.random.randint(0, N) 
     j = -1
     while j in hash[k] and len(hash[k]) <= N: 
         # if optimized for memory, there is always only iter in this loop
