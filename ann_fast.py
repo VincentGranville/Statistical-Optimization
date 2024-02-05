@@ -114,7 +114,7 @@ low = sum_dist
 #--- [3] Main part
 
 mode     = 'minDist'  # options: 'minDist'  or 'maxDist'
-optimize = 'spped'    # options: 'speed' or 'memory'
+optimize = 'speed'    # options: 'speed' or 'memory'
 video    = False      # True if you want to produce a video
 decay    = 0.0
 
