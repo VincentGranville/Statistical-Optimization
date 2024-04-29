@@ -124,7 +124,19 @@ def get_article_pv(titleID, arr_pv):
     return(np.log(float(arr_pv[titleID])))
 
 
-#---  [3] Populate core tables 
+#--- [3] De-trend pv 
+
+param_T1 = 0.80
+param_T2 = 0.11 
+arr_pv_new = np.zeros(len(arr_pv)) 
+
+for k in range(len(arr_pv)):
+    energy_boost = param_T1 * np.sqrt(k + param_T2 * len(arr_pv))
+    arr_pv_new[k] = arr_pv[k] * (1 + energy_boost) 
+arr_pv = np.copy(arr_pv_new)    
+
+
+#--- [4] Populate core tables 
 
 for k in range(len(data)):
     author = arr_author[k]
@@ -165,7 +177,7 @@ mean_pv = sum(hash_pv.values()) / sum(hash_words_count.values())
 print("Mean pv: %6.3f" % (mean_pv))             
 
 
-#--- [4] Sort, normalize, and dedupe hash_pv
+#--- [5] Sort, normalize, and dedupe hash_pv
 
 # Words with identical pv are all attached to the same set of titles
 # We only keep one of them (the largest one) to reduce the number of words
@@ -203,7 +215,7 @@ for word in hash_pv_deduped:
         print("%6d %6.3f %s" %(count, hash_pv_rel[word]/mean_pv, word))
 
 
-#--- [5] Compute average pv per category
+#--- [6] Compute average pv per category
 
 # Needed to predict title pv, in addition to word pv's
 # Surprisingly, word pv's have much more predictive power than category pv's
@@ -231,7 +243,7 @@ for category in category_count:
 print()
 
 
-#--- [6] Create short list of frequent words with great performance
+#--- [7] Create short list of frequent words with great performance
 
 # This reduces the list of words for the word clustering algo in next step
 # Goal: In next steps, we cluster groups of words with good pv to
@@ -256,7 +268,7 @@ for word in hash_pv_deduped:
         short_list[word] = 1
 
 
-#--- [7] compute similarity between words in short list, based on common titles
+#--- [8] compute similarity between words in short list, based on common titles
 
 # Find list of articles S1 and S2, containing respectively word1 and word2
 # word1 is similar to word2 if |S1 intersection S2| / |S1 union S2| is high
@@ -289,7 +301,7 @@ for word1 in short_list:
             aux_list[word2] = 1 
 
 
-#--- [8] Turn hash_pairs{} into distance matrix dist_matrix, then perform clustering
+#--- [9] Turn hash_pairs{} into distance matrix dist_matrix, then perform clustering
 
 # Keyword clustering based on similarity metric computed in previous step 
 # Alternative to exploite sparse matrix: connected components algorithm on hash_pairs
@@ -384,10 +396,11 @@ dendrogram(Z)
 plt.show()
 
 
-#--- [9] Predicting pv 
+#--- [10] Predicting pv 
 
 # Need to do cross-validation in the future
 # Influenced by: param_W1, param_W2, param_G1, param_C1, param_C2, param_A, param_D
+#                param_T1, param_T2
 # Not influenced by: param_N, param_S
 # Large param_W2 combined with small param_W1 may lead to overfitting
 
@@ -506,6 +519,6 @@ plt.plot(range(len(arr_pv)), y, linewidth = 0.2, alpha = 0.5)
 plt.plot(range(len(arr_pv)), z, linewidth = 0.8, c='red', alpha = 1.0)
 
 plt.xlim(0, len(arr_pv))
-plt.ylim(4, 10)
+# plt.ylim(4, 10)
 plt.grid(color='red', linewidth = 0.2, linestyle='--')
 plt.show()
