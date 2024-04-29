@@ -1,0 +1,1934 @@
+=== CLUSTERS obtained via hierarchical clustering
+
+> Press <Enter> to continue
+-------------------------------------------
+Group 9
+
+keywords: ('Data~Scientist~Should', 'Every~Data~Scientist', 'Every~Data', 'Every')
+
+Titles with normalized pv on the left:
+
+ 9.742 5 Excel Add Ins Every Data Scientist Should Install
+10.621 12 Algorithms Every Data Scientist Should Know
+10.625 12 Algorithms Every Data Scientist Should Know
+ 6.582 4 Things Your Data Scientist Should Not Be Doing
+ 7.499 Basic Statistics Concepts Every Data Scientist Should know 
+ 9.621 10 Machine Learning Methods that Every Data Scientist Should Know 
+ 9.339 10 Visualizations Every Data Scientist Should Know +
+ 8.192 Why Every Data Scientist Needs A Data Engineer
+ 6.724 Soft Skills Every Data Scientist Must Possess
+ 6.071 Deep learning Data Sets for Every Data Scientist 
+ 7.074 Why Every Data Scientist Needs A Data Engineer
+ 7.710 Every Data Science Interview Boiled Down To Five Basic Questions
+ 6.256 Why Every Data Science Aspirant Should Learn Data Visualization 
+ 8.427 18 Analytics Tools Every Business Manager Should Know
+ 5.598 Why Every CEO Needs a Chief Analytics Officer 
+
+
+-------------------------------------------
+Group 0
+
+keywords: ('Should~Know', 'Python^Science', 'Python~for~Data', 'Python~for', 'Learn~Python', 'to~Learn', 'Mathematics~of', 'Understanding~the', 'Machine~Learning~Resources', 'Resources', 'Data^List', 'Free~Data~Science', 'Free~Data', 'List', 'List~of', 'Science~Machine~Learning', 'Deep~Learning~and', 'Learning~and', 'Data^Job', 'Job', 'Data~Science~Job', 'Job~in', 'Scientist^The', 'Scientist^of', 'a~Data~Scientist', 'Scientist^a', 'Explained~in~One', 'Free', 'Free^Learning', 'Free~Book', 'Data^Python', 'R~and~Python', 'and~Python', 'Data^Difference', 'Difference~Between', 'Difference^and', 'Difference~between', 'Types', 'Types~of', 'Data~Science~Books', 'Updated', '~Updated', 'and~Regression', 'Data~Engineers', 'Engineers', 'Number', 'Number~Theory', 'Learning^New', 'Machine^Python', 'Machine^R', 'AI^Machine', 'Learning~and~AI', 'Data^Questions', 'Data~Science~Interview', 'Interview~Questions', 'Data^Free', 'Python^R', 'Machine~Learning~and', 'Machine^and', 'Book^Learning', 'Book^Machine', '10^Data', '10^Science', '10^for', 'the~Best', 'Deep^and', 'AI^Learning', 'Book~Python', 'Python~Machine~Learning', 'R~and', 'to~Machine', 'to~Machine~Learning', 'Learning^Python', 'Books', 'Books^Data', 'Learn', 'Learn^in', 'Scientist^to', 'Data^Know', 'Know', 'Data~Scientist', 'Mathematics', 'Decision~Trees', 'Trees', 'Articles^Data', 'Data~Science~Articles', 'Deep~Learning', 'Learning', 'Learning^of', 'Machine^of', 'Book', 'Book^Science', 'Book^Data', 'Comprehensive', 'Comprehensive~Guide', 'Data^Should', 'Should', 'Deep', 'Learning^on', 'on~Machine~Learning', 'A^Learning', 'A^Machine', 'Automated^Learning', 'Automated~Machine~Learning', 'Best^Data', 'Best^in', 'Analysis~of~Movie', 'Sentiment~Analysis', 'Learning^for', 'Machine^for', 'Articles', 'Articles^and', 'for~Data', 'for~Data~Science', 'Between^and', 'A~Comprehensive', 'Science^for', 'Most', 'Most~Popular', 'Machine~Learning')
+
+Titles with normalized pv on the left:
+
+ 8.427 18 Analytics Tools Every Business Manager Should Know
+ 9.940 11 Important Model Evaluation Techniques Everyone Should Know
+ 7.697 9 Best Marketing And Sales Analytics You Should Know About
+10.621 12 Algorithms Every Data Scientist Should Know
+10.625 12 Algorithms Every Data Scientist Should Know
+ 5.081 5 Big Data Myths Businesses Should Know
+ 8.899 10 Machine Learning Algorithms You Should Know in 2018
+ 7.415 Ten Machine Learning Algorithms You Should Know 
+ 9.621 10 Machine Learning Methods that Every Data Scientist Should Know 
+ 9.339 10 Visualizations Every Data Scientist Should Know +
+ 9.610 12 Python Resources for Data Science
+ 9.585 The Guide to Learning Python for Data Science
+ 8.428 Book: Mastering Python for Data Science
+10.025 Hitchhiker's Guide to Data Science, Machine Learning, R, Python
+ 9.631 A Complete Tutorial to Learn Data Science with Python from Scratch
+ 9.229 Learning Python For Data Science
+ 7.993 Python: Getting Started with Data Science
+ 7.035 Book: Data Science Essentials in Python
+ 9.184 Python Basics For Data Science
+ 7.996 Book: Python Data Science Handbook: Tools and Techniques for Developers 1st Edition
+ 9.270 Book: Python Data Science Handbook
+ 9.134 Data Science in Python: Pandas Cheat Sheet
+ 9.459 20 Cheat Sheets: Python, ML, Data Science, R, and More
+ 8.787 Learn Python for Data Science from Scratch
+ 7.803 How can R Users Learn Python for Data Science ?
+ 9.271 Python Overtakes R for Data Science and Machine Learning
+10.403 [Cheat Sheet] Python Basics For Data Science
+ 7.230 Data Science with Python: Exploratory Analysis with Movie-Ratings and Fraud Detection with Credit-Card Transactions
+ 7.900 Python Data Science Handbook- An essential handbook for Python enthusiasts
+ 7.326 Latest book “Beginning Data Science with Python and Jupyter”
+ 7.683 Steps to Learn Python for Data Science 
+ 8.822 Free Python Data Science coding Book series 
+ 7.237 How Long Does It Take to Learn Python for Data Science? 
+ 9.511 Python for Big Data in One Picture
+ 5.953 Python for Automating Your Quality Analysis
+ 8.060 Data science cookbook style code reference in Python for beginners
+ 9.896 Learn Python in 3 days : Step by Step Guide
+ 8.542 Why Excel Users Should Learn Python 
+ 9.362 How to Learn Python in 30 days 
+ 8.136 51 Expert Tips to Learn Big Data Analytics
+ 8.317 6 Easy Steps to Learn Naive Bayes Algorithm (with code in Python)
+ 4.860 What’s Better to Learn First: Spark Vs Hadoop?
+ 6.545 3 Reasons to Learn the Expected Value Framework for Data Analysis
+ 6.907 Best Resources to Learn Statistics (for Free!)
+ 9.376 The Mathematics of Machine Learning
+ 7.981 A simplified explanation for Understanding the Mathematics of Deep ... 
+ 8.808 The Mathematics of Data Science - Understanding the foundations of Deep Learning through Linear Regression
+ 8.730 How the Mathematics of Fractals Can Help Predict Stock Markets Shifts +
+ 7.422 Three Books About the Mathematics of Data
+ 6.943 Understanding the limits of deep learning
+ 6.953 Understanding the Quantum Computing Landscape Today – Buy, Rent, or Wait
+ 8.326 Understanding the Changing Position Roles in Data Science
+ 6.075 Understanding the applications of Probability in Machine Learning
+ 8.980 34 External Machine Learning Resources and Related Articles
+ 8.641 43 New External Machine Learning Resources and Updated Articles
+ 7.332 32 New External Machine Learning Resources and Updated Articles
+ 7.867 47 New External Data Science / Machine Learning Resources and Articles
+ 8.435 47 New External Data Science / Machine Learning Resources and Articles
+ 7.557 Top Resources if you want to work as a Data Scientist for the CIA
+ 8.444 R, Python, Machine Learning, Dataviz: Most Popular Resources
+ 8.771 11 Deep Learning Articles, Tutorials and Resources
+ 8.688 Deep Learning: Definition, Resources, Comparison with Machine Learning
+ 8.333 17 Data Visualization Tools & Resources You Should Bookmark
+ 5.268 IT and the New Face of Human Resources
+ 7.916 12 Useful Resources to Explore the World of Big Data?
+ 6.377 DSC Top Resources
+ 7.546 27 Great Resources About Logistic Regression
+ 7.669 Comprehensive Repository of Data Science and ML Resources
+ 7.777 Top Data Science Resources on the Internet Right Now
+ 8.872 Data Science and Machine Learning: Great List of Resources
+ 7.726 88 Resources & Tools to Become a Data Scientist 
+ 7.632 New Books and Resources for DSC Members 
+ 4.710 Question: Resources from ETL 
+ 5.541 New Books and Resources About K-Nearest Neighbors Algorithms
+ 8.401 Comprehensive List of Data Science Graduate Programs
+ 8.007 Data Science Summer Reading List 2016
+ 9.713 5 Free Data Science eBooks For Your Summer Reading List
+ 8.202 Reading List for Data Scientists
+ 8.587 3 Free Data Science eBooks to Add to Your Summer Reading List
+ 7.898 A Self-Study List for Data Engineers and Aspiring Data Architects
+ 7.977 List of Must – Read Free Data Science Books
+ 7.558 A Self-Study List for Data Engineers and Aspiring Data Architects
+ 7.088 80+ Free Data Science Books
+ 8.008 5 Free Data Science Books for the New Year
+ 8.273 More Free Data Sets
+ 6.680 Big Data: 50 Fascinating and Free Data Sources for Data Visualization
+ 7.758 List of top companies hiring data scientist in 2016
+ 7.991 List of 50+ Machine Learning APIs
+ 6.756 Analysis on Google's Best Apps of 2017 List
+ 8.464 List of Free Must-Read Machine Learning Books
+ 7.635 A Comprehensive List Of R Packages For Portfolio Analysis
+ 5.778 List of Quantum Clouds
+ 6.583 List of Time Series Methods in One Picture
+ 7.976 BIG Data & Analytics, Data Science, Machine Learning - Random Insights!
+ 8.485 The spectacular growth of Data Science, Machine Learning, Deep Learning, IoT, and AI
+ 8.416 Curated Lists of Data Science, Machine Learning, Deep Learning and NLP resources
+ 7.783 My Best Data Science, Machine Learning and Related Articles
+ 8.568 10 Data Science, Machine Learning and IoT Predictions for 2017
+ 9.690 Data Science, Machine Learning, BI Explained in a Amazing Few Pictures
+ 7.649 Difference of Data Science, Machine Learning and Data Mining
+ 9.131 6 Predictions about Data Science, Machine Learning, and AI for 2018
+ 7.655 Data Science, Machine Learning, and AI Conferences and Events 2018
+ 8.326 5 Predictions about Data Science, Machine Learning, and AI for 2019 
+ 9.236 Step-by-step video courses for Deep Learning and Machine Learning
+ 9.242 Step-by-step video courses for Deep Learning and Machine Learning
+ 6.806 Limitations of Deep Learning and strategic observations
+10.974 Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics
+ 7.268 Deep Learning and Recommenders
+ 7.678 Quantum Computing, Deep Learning, and Artificial Intelligence
+ 8.564 Two Great Courses on Deep Learning and AI
+ 7.042 21 Curated Blogs About Deep Learning and Data Science
+ 7.478 Free eBooks on Hadoop, Deep Learning and DataViz by Packt
+ 7.845 New Notebook: Deep Learning and Computer Vision with CNNs (Convolutional Neural Networks)
+ 8.124 Reinforcement Learning and AI
+ 7.120 Women In Machine Learning and Artificial Intelligence
+ 8.878 Python, Machine Learning, and Language Wars. A Highly Subjective Point of View
+ 6.927 Using Multiple Models, Ensemble Learning and a Genetic Algorithm.
+ 8.262 Linear, Machine Learning and Probabilistic Approaches for Time Series Analysis
+ 6.959 Machine Learning and Its Algorithms to Know – MLAlgos
+ 5.805 Demystifying AI, Machine Learning and Deep Learning
+ 5.838 Lecture slides: Introduction to Adjoint Differentiation and Back-Propagation - in Machine Learning and Finance
+ 6.098 Machine Learning and Particle Motion in Liquids: An Elegant Link 
+12.379 Machine Learning and Data Science Cheat Sheet 
+ 7.986 Jupyter Notebooks: Fundamentals of Machine Learning and Deep Learning
+ 8.395 Machine Learning and Deep Learning Textbook - Cornell University
+ 6.524 Machine Learning and AI in Food Industry: Solutions and Potential
+ 5.257 Machine Learning and AI in Manufacturing
+ 6.589 Human Learning and Machine Learning - How they differ ?
+ 9.184 Most Promising Job of 2016: Data Scientist
+ 8.817 5 Unusual Ways to Find your First or Next Data Science Job
+ 8.650 Data Scientist –Still the Best Job in America
+ 8.824 19 Worst Mistakes at Data Science Job Interviews
+ 7.857 Data Scientist – Still the Best Job in America - Again
+ 9.336 46 SQL Job Interview Questions for Data Scientists
+ 7.912 What type are you? Six Job Categories for Data Scientists
+ 7.829 Sample Job Titles and Salaries for Recently filled Data Science Positions in US
+ 7.513 Most Data Science Job Ads are Targeted to Young People - And How to Get a Job at Facebook
+ 7.157 6 Proven Steps to Land a Job in Data Science
+10.150 Becoming a Billionaire Data Scientist vs Struggling to Get a $100k Job - What is the difference?
+ 8.120 Data Science Job in 90 days - Book Summary 
+ 6.186 Data Science Job Titles to Look Out for in 2020
+ 7.396 Using Machine Learning to Measure Job Skill Similarities
+ 7.652 A Robot Took My Job – Was It a Robot or AI?
+ 7.334 Keeping Your Job in the Age of Automation
+ 4.796 Changes in Job Counts by Education Grouping, 1992-2017
+ 7.228 The Life of a Data Scientist ( Data Land Scape)
+ 7.519 50 Shades of Grey – The Psychology of a Data Scientist
+10.085 The New Rules for Becoming a Data Scientist
+ 8.058 The Top Skills You'll Need to Become a Data Scientist
+ 7.730 The Experience of Being a High-Performing Data Scientist
+ 7.119 The Challenge of Hiring a Chief Data Scientist
+ 7.508 The Data Scientist: a New and Necessary Profession
+ 6.303 The Rise of the Citizen Data Scientist
+ 8.754 The Typical Data Scientist Profile, in a few Pictures
+ 9.164 The Browser of a Data Scientist
+ 9.100 The First Things you Should Learn as a Data Scientist - Not what you Think
+10.647 The Death of the Data Scientist
+ 7.458 The Art of Thinking Like a Data Scientist +
+ 6.444 Why is Data Scientist the most promising job of the future?
+ 7.690 How to Raise a (Data) Scientist in the Xbox Age
+ 7.923 7 Ways to Perplex a Data Scientist
+ 8.241 5 Ways to Get Fired as a Data Scientist
+ 7.413 10 Required Non-technical Skills for a Data Scientist
+ 8.053 Free Ebook: Your Guide to Becoming a Data Scientist
+ 7.195 How to think like a Data Scientist
+ 6.157 Do you want to hire a Data Scientist?
+ 7.452 What Skills Do I Need to Become a Data Scientist?
+ 8.621 10 Required Non-technical Skills for a Data Scientist
+ 8.246 Want to become a Data Scientist? Try Feynman Technique
+ 7.228 Everybody (Still) Loves a Data Scientist
+ 9.638 Why Logistic Regression should be the last thing you learn when becoming a Data Scientist
+ 9.091 Why is Becoming a Data Scientist so Difficult? 
+ 4.673 Learning Path to Become a Data Scientist for ASP.NET Developers 
+ 7.308 Can you be a Data Scientist without coding? 
+ 5.347 Why is Data Scraping a Desirable Add On to a Data Scientist
+ 9.824 48 Questions to Ask to a Potential Data Scientist Hire
+ 6.860 What is in a Name? A Data Scientist by any other name
+ 6.333 Data Scientist in a Machine ? Part I
+ 7.428 Who are you, Data Scientist? Answer with a survey
+ 7.072 Hiring a Chief Data Scientist
+ 6.537 Charting a Mandate for a Chief Data Scientist
+ 6.507 Be a Social Data Scientist – It is Good Karma!!
+ 6.545 Top Soft and Technical Skills to Be a Successful Data Scientist 
+ 6.926 Experiences as a female Data Scientist 
+ 6.668 Best Paths to Becoming a Great Data Scientist
+ 8.484 On Being a 50 Year Old Data Scientist
+ 8.961 Number Representation Systems Explained in One Picture
+ 9.543 Number Representation Systems Explained in One Picture
+ 9.645 Number Representation Systems Explained in One Picture
+ 7.238 Demystifying Artificial Intelligence - Explained in One Picture
+ 7.958 EM Algorithm Explained in One Picture +
+ 6.594 K-nn Clustering Explained in One Picture 
+ 8.387 P-Value Explained in One Picture +
+ 7.498 Free data mining programs for everyday use
+ 7.388 Ten Signs of Data Science Maturity - Free eBook
+ 8.798 Free Alternatives to Excel for Data Cleaning
+ 9.234 Deep Learning for Everyone – and (Almost) Free
+ 8.578 5 Free Statistics eBooks You Need to Read This Autumn
+ 8.907 Free Machine Learning eBooks - March 2017
+ 9.981 Free Deep Learning Textbook
+ 9.877 Free Courses: Neural Networks, Machine Learning, Algorithms, AI
+ 7.030 Some NLP: Probabilistic Context Free Grammar (PCFG) and CKY Parsing in Python
+ 8.672 100 Free Tutorials for learning R
+ 6.489 100 Free Tutorials to learn SAS
+ 9.669 Free Deep Learning Book (MIT Press)
+ 9.543 Free Book: Probability and Statistics Cookbook
+ 7.784 Free book on Computer Programming
+ 8.637 Free Book: SQL Essentials
+ 8.215 Free eBook: Applied Data Science (Columbia University)
+ 8.271 Design Patterns for Deep Learning Architectures - with Free eBook
+ 7.588 Free Guide: Interpretable Machine Learning
+ 9.220 Free New Book by Andrew Ng: Machine Learning Yearning
+ 9.902 Free Book: Applied Stochastic Processes
+ 8.937 Free eBooks on Data Visualization and Machine Learning
+ 8.410 Free Book: The Definitive Guide to Pandas 
+ 8.116 More Free eBooks from Packt 
+ 8.886 Lots of Free Open Source Datasets to Make Your AI Better 
+ 8.076 Free eBook: Enterprise AI - An Applications Perspective - Coming soon
+ 5.826 Free Hosted Dashboards in IBM Watson Studio 
+ 7.028 Free Book: Lecture Notes on Machine Learning 
+ 6.971 Free book – learn azure in a month of lunches – covering Cloud, AI,... 
+ 7.738 Free Book: Classification and Regression In a Weekend 
+ 5.628 Free eBook: Graph Algorithms: Practical Examples in Apache Spark an... 
+ 8.671 Free Book: Foundations of Data Science (from Microsoft Research Lab) 
+ 8.532 Free Textbook: Probability Course, Harvard University (Based on R) 
+ 8.442 Free Book: Azure Machine Learning in a Weekend 
+ 7.363 Free Book: Statistics, Dataviz, and Data Cleaning with R 
+ 9.881 Free Book: Statistics: New Foundations, Toolbox, and ML Recipes 
+ 7.247 Free book: The Data Engineering cookbook by Andreas Kretz 
+ 6.229 Free book: Impact of containers for AI on Edge devices 
+ 9.373 Free Book: A Comprehensive Guide to Machine Learning (Berkeley University)
+ 7.458 Math of Deep Learning: Free Chapter from 832-page eBook
+ 7.986 Free 2,900-page Manual about Pandas
+ 6.361 Free book on Industry 4.0, factory automation and Edge
+ 7.321 Free Books: Data Science & AI
+ 8.741 Two New Free Books on Machine Learning +
+ 7.512 Web Scraping and Data Analysis using Selenium Webdriver and Python
+ 8.007 How Python & Tableau made an easy Data Analysis of Padma Shri Awards
+ 6.880 From Data Dictionary to Meta Data with Simple Text Wrangling in Python
+ 6.548 Reticulating Python and R -- the American Community Survey Data Dictionary to Meta Data III.
+ 7.988 Python Vs R : The Eternal Question for Data Scientists 
+ 7.404 What Is Your Favorite Python Library For Visualizing Geospatial Data? 
+ 6.781 Apache Kafka + KSQL + TensorFlow for Data Scientists - via Python + Jupyter Notebook
+ 6.269 Exploratory Data Analysis with Python 
+ 6.535 Tidy Data in Python: Introduction
+ 9.030 R vs Python? No! R and Python (and something else)
+ 8.086 t-SNE algo in R and Python, made with same dataset
+ 9.788 R and Python cheatsheets
+ 6.645 Implementing a Soft-Margin Kernelized Support Vector Machine Binary Classifier with Quadratic Programming in R and Python
+ 7.991 How to Execute R and Python in SQL Server with Machine Learning Services
+ 7.125 Remotely Send R and Python Execution to SQL Server from Jupyter Notebooks
+ 8.545 7 Books About Machine Learning, Statistics, and Python
+ 6.133 TensorFlow 2.0 and Python Machine Learning book
+ 9.359 Difference Between Data Scientists, Data Engineers, and Software Engineers - According To LinkedIn
+ 7.738 The Difference between Data Scientists, Data Engineers, Statisticians, and Software Engineers
+ 8.208 The Difference Between Managing Large and Small Data Science Teams
+ 8.381 Updated: Difference Between Business Intelligence and Data Science 
+ 6.560 Data Analytics. AI. ML. What’s the Difference? 
+ 6.301 Difference Between Big Data and Internet of Things +
+ 7.072 Difference between Data Analysis and Statistical Analysis
+ 8.221 Difference Between Correlation and Regression in Statistics
+ 6.980 Difference Between Correlation and Regression in One Picture
+ 5.969 Difference between Gradient Descent and Newton-Raphson 
+ 7.040 Impala vs Hive: Difference between Sql on Hadoop components
+ 8.978 8 Types of Data
+ 8.016 What Types of Questions Can Data Science Answer?
+ 6.232 The 4 Device Types in the Internet of Things, from a Data Perspective
+ 8.017 5 Types of Recommenders
+ 7.422 Machine Learning: An In-Depth Guide - Overview, Goals, Learning Types, and Algorithms
+ 9.054 Types of Machine Learning Algorithms in One Picture
+ 5.124 Performance Testing Tutorial: Types, Process & Important Metrics
+ 8.710 The 4 Types of Data Analytics
+10.117 6 Types of Programmers in One Picture
+ 7.029 7 Types of Regression Techniques you should know
+ 9.692 Four Types of Data Scientists
+ 6.812 Sentiment Analysis: Types, Tools, and Use Cases 
+ 8.367 3 Types of Regression in One Picture +
+ 7.846 Two New Data Science Books
+ 7.807 Best Data Science Books and Articles For Your Career
+ 8.853 80 Best Data Science Books That Are Worthy Reading
+ 8.577 Are the Digits of Pi Truly Random? - Updated with Blockchain Application and More
+ 6.820 Question about Some Statistical Distributions (Updated)
+ 7.783 Some Irresistible Integrals, Computed Using Statistical Concepts Updated
+ 6.423 Updated ggmap Tutorial 
+ 8.738 Fascinating New Results in the Theory of Randomness (Updated, long article) +
+ 8.348 Confidence Intervals Without Pain, With Excel (Updated) +
+ 8.210 Automated Machine Learning for Professionals - Updated 
+ 7.861 Extreme Events Modeling Using Continued Fractions (Updated) +
+ 7.422 Scale-Invariant Clustering and Regression
+ 7.409 Tutorial: Classification and Regression Trees 
+ 6.983 Data Engineers: Nobody Puts Baby in a Corner! +
+ 8.213 Math or Engineers -- who will solve the big data problem?
+ 8.001 The 10 Algorithms Machine Learning Engineers Need to Know
+ 7.940 Machine Learning Guide and Tutorial for Software Engineers
+ 7.579 5 Most Preferred Programming Languages for AI Engineers in 2020
+ 5.030 Make It So, Number One
+ 7.781 Introduction to Number Theory
+ 8.223 Simple Proof of the Prime Number Theorem
+ 7.044 The Largest Number Ever Created
+ 8.162 Number Theory: Nice Generalization of the Waring Conjecture
+ 8.330 Stochastic Processes and New Tests of Randomness - Application to Cool Number Theory Problem
+ 7.219 Cool Problems in Probabilistic Number Theory and Set Theory 
+ 8.521 How to Automatically Determine the Number of Clusters in your Data - and more
+ 6.625 Determining Number of Clusters in One Picture +
+ 7.237 Some Fun with Gentle Chaos, the Golden Ratio, and Stochastic Number... 
+ 8.176 Two New Deep Conjectures in Probabilistic Number Theory
+ 9.089 New Machine Learning Cheat Sheet by Emily Barry
+ 7.864 New Trends in Artificial Intelligence & Machine Learning
+ 7.316 New Book: Mastering Machine Learning Algorithms
+ 6.526 New Book: Machine Learning with R 
+ 6.800 New Similarity Methods for Unsupervised Learning 
+ 8.161 New Perspectives on Statistical Distributions and Deep Learning +
+ 6.648 New Theory Cracks Open the Black Box of Deep Learning
+ 8.727 Would You Survive the Titanic? A Guide to Machine Learning in Python
+ 8.163 Essentials of Machine Learning Algorithms (with Python and R Codes)
+ 7.603 How To Implement Machine Learning Algorithm Performance Metrics From Scratch With Python
+ 9.185 Python vs R: 4 Implementations of Same Machine Learning Technique
+ 6.548 Getting Started with GraphLab For Machine Learning in Python
+ 8.461 Book: Mastering Machine Learning with Python in Six Steps
+ 7.116 Few Machine Learning Problems (with Python implementation)
+ 6.869 Automated Machine Learning Hyperparameter Tuning in Python 
+ 7.937 A Complete Machine Learning Project Walk-Through in Python 
+ 6.342 How Can Python Help Solve Machine Learning Challenges? 
+ 6.410 Automated Machine Learning Hyperparameter Tuning in Python
+ 7.845 Response Modeling using Machine Learning Techniques in R
+ 7.444 Classifications in R: Response Modeling/Credit Scoring/Credit Rating using Machine Learning Techniques
+ 7.965 Learn Support Vector Machine (SVM) from Scratch in R
+ 6.349 Supervised Machine Learning Classification With XGBoost In R
+ 7.820 Book: Machine Learning with R - Second Edition
+ 6.045 Machine Learning with C++ - Faster R-CNN with MXNet C++ Frontend
+ 5.628 Machine Learning with C++ : Mask R-CNN with PyTorch C++ Frontend
+ 6.867 Interview with Flowcast CTO: AI / Machine Learning in Fintech
+ 9.042 AI vs Deep Learning vs Machine Learning
+ 7.780 A Primer in Adversarial Machine Learning – The Next Advance in AI
+ 8.034 Digital Twins, Machine Learning & AI
+ 6.731 AI / Machine learning Cloud APIs: AWS – Azure - GCP - our experience
+ 6.715 AI vs. Machine Learning vs. Deep Learning: What is the Difference? 
+ 6.907 MS Data Science vs MS Machine Learning / AI vs MS Analytics +
+ 7.484 12 Thought AI and Machine Learning Leaders on LinkedIn
+ 6.690 How to Answer the Biggest Questions About Big Data -- in 3 Minutes or Less
+ 7.710 Every Data Science Interview Boiled Down To Five Basic Questions
+ 8.560 40 Interview Questions asked at Startups in Machine Learning / Data Science
+ 7.926 5 Questions To Ask When You Get A Data Dump To Analyse
+ 7.859 100+ Common Data Science Interview Questions
+ 8.617 100+ Commonly Asked Data Science Interview Questions
+ 7.115 5 Questions To Prepare You For Your Next Data Science Interview
+ 5.727 20 Questions to Ask Prior to Starting Data Analysis
+ 6.864 Top 19 Data Science Interview Questions for Beginners
+ 7.123 70 MongoDB Interview Questions and Answers
+ 6.409 Top Hadoop Interview Questions & Answers
+ 6.188 Top 25 Hadoop Interview Questions Prepared by Experts
+ 6.061 5 Common Non-Technical Interview Questions... and Answers
+ 8.333 The data science ecosystem: R vs Python vs Substitutes
+10.897 Visualizations: Comparing Tableau, SPSS, R, Excel, Matlab, JS, Python, SAS
+ 7.685 Best practices of orchestrating Python and R code in ML projects
+ 6.904 Question: High Precision Computing in Python or R
+ 6.772 High Precision Computing in Python or R
+ 7.035 Frequencies in Pandas -- and a Little R Magic for Python
+ 8.649 R vs Python: Usability, Popularity, Pros / Cons, Jobs, Salaries +
+ 6.256 Nowcasting Chicago Crime with Python-Pandas, and R 
+ 7.324 Using Python and R to Load Relational Database Tables, Part I 
+ 7.037 Using Python and R to Load Relational Database Tables, Part II 
+ 5.878 Orchestrating Dynamic Reports in Python and R with Rmd Files
+ 5.421 Using "record id's" to facilitate processing in Python-Pandas and R-data.table
+ 7.795 Which one is faster in multiprocessing, R or Python?
+ 6.026 Question: Different results between Python and R
+ 6.849 You should stop worrying about R vs. Python vs. whatever the tool
+ 6.446 What's a CFO's Biggest Fear, and How can Machine Learning help?
+ 8.286 Benchmarking 20 Machine Learning Models Accuracy and Speed
+ 6.299 Data Science 101: The Rise and Shine of Machine Learning
+ 7.206 Machine Learning: what it means and why it is the future of growth
+ 7.114 Machine Learning, Data Science, and Unicorns
+ 6.578 Machine Learning Translation and the Google Translate Algorithm
+ 8.653 Machine Learning Explained: Understanding Supervised, Unsupervised, and Reinforcement Learning
+ 5.799 The Future of IoT and Machine to Machine Payments
+ 6.271 Overview and Classification of Machine Learning Problems
+ 6.303 Learn How to Code and Deploy Machine Learning Models on Spark Structured Streaming
+ 8.453 Learn Machine Learning Coding Basics in a Weekend - Glossary and Mindmap
+ 5.916 Machine Learning : Unsupervised – Hierarchical Clustering and Boots... 
+ 6.822 Machine Learning in Agriculture: Applications and Techniques 
+ 6.989 Gartner and Forrester Weigh in on Automated Machine Learning
+ 6.163 Machine Learning in Finance: Benefits, Use Cases and Opportunities
+ 9.258 Book: Deep Learning With Python
+ 7.442 Book: Fundamentals of Machine Learning for Predictive Data Analytics - MIT Press
+ 7.384 Book: Python Machine Learning Blueprints
+ 6.540 Book: Python Machine Learning
+ 8.761 Book: Machine Learning Algorithms From Scratch
+ 7.869 Book: Evaluating Machine Learning Models
+ 8.384 Book: Neural Networks and Statistical Learning
+ 6.964 Book: Java Deep Learning Essentials
+ 7.393 Book: Machine Learning: a Probabilistic Perspective
+ 6.817 Expert Insight Book on Machine Learning 
+ 9.585 The Hundred-Page Machine Learning Book 
+ 7.014 The Hundred-Page Machine Learning Book - Now complete
+ 8.267 10 Great Healthcare Data Sets
+ 9.045 Top 10 Hot Data Science Technologies
+ 7.256 10 Great Data Science Articles by Bernard Marr
+ 7.255 Kcore Data Science Influencers: Top 10
+ 9.379 Top 10 IPython Tutorials for Data Science and Machine Learning
+ 7.198 10 Videos Featuring Data Science Topics
+ 8.747 10 Blogs from Rock-star Data Scientists
+ 7.592 10 Algorithm Categories for A.I., Big Data, and Data Science
+ 6.436 10 Tools for Data Visualizing and Analysis for Business
+ 6.943 10 Dataviz Tools To Enhance Data Science
+ 8.065 Data Science for IoT vs Classic Data Science: 10 Differences
+ 6.867 Data Science Simplified Part 10: An Introduction to Classification Models
+ 7.482 Top 10 Challenges to Practicing Data Science at Work
+ 7.739 10 Best Big Data Analytics Courses Online
+ 5.438 Google Data Studio in 10 minutes: Step-by-Step Guide 
+ 7.944 The 10 Statistical Techniques Data Scientists Need to Master 
+ 7.969 Top 10: Data Science and Machine Learning Articles in July
+ 6.211 Top 10 Data Science Use Cases in Insurance
+ 7.280 Top 10 Data Science Use Cases in Retail
+ 6.114 Top 10 Data Science Use Cases in Energy and Utilities 
+ 7.652 10 Common NLP Terms Explained for the Text Analysis Novice
+ 5.645 Top 10 PHP Frameworks for Website Design and Development
+ 6.869 Schmarzo’s Favorite 10 Infographic Blogs for 2019
+ 6.417 Neural Networks to Find the Best Words to Title Your eBook
+ 6.071 What Makes Libratus the Best Poker Player in the World?
+ 8.404 Data Engineer and Business Analyst Might be the Best Data Science Opportunities
+ 6.623 On-going Developments and Outlook for Deep Learning
+ 9.452 Open Source Deep Learning Frameworks and Visual Analytics
+ 7.292 Keras: Deep Learning library for Theano and TensorFlow
+ 5.231 Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016
+ 7.509 Some Deep Learning with Python, TensorFlow and Keras
+ 8.976 Off the Beaten path – Using Deep Forests to Outperform CNNs and RNNs
+ 8.216 Deep Dive into Polynomial Regression and Overfitting
+ 6.918 Model Serving: Stream Processing vs. RPC / REST - A Deep Learning Example with TensorFlow and Kafka
+ 6.807 Deep learning based object classification model for Autonomous vehicles and Advanced Driver Assist System
+ 5.165 How can firms save time and cost with Deep learning 
+ 8.268 Deep Analytical Thinking and Data Science Wizardry 
+ 7.050 Deep learning: the final frontier for signal processing and time se... 
+ 6.395 Deep Learning from first principles in Python, R and Octave
+ 7.539 AI and Deep Learning Books - October 2018 
+ 6.841 AI (Deep Learning) explained simply 
+ 5.525 The 10 Deep Learning Methods AI Practitioners Need to Apply
+ 7.607 Book: Python For Dummies
+ 7.712 5 Online Python Machine Learning Courses for 2020
+ 8.034 How to create a Twitter Sentiment Analysis using R and Shiny
+ 6.557 Using R and Google’s keyword planner to evaluate size and competitiveness of international markets
+ 7.579 Quick Guide to R and Statistical Programming
+ 7.139 Map plots created with R and ggmap
+ 6.524 Change Point Detection in Time Series with R and Tableau
+ 9.870 Comparison of top data science libraries for Python, R and Scala [Infographic]
+ 5.956 Combining R and D3 to build interactive visualizations 
+ 7.944 Introduction to Machine Learning / Data Mining
+ 8.117 A Visual Introduction to Machine Learning
+ 8.678 From Data Analysis to Machine Learning
+ 6.953 From Machine Learning to Machine Unlearning
+ 6.258 Introduction to Machine Learning 
+ 8.496 My Top 9 Favorite Python Deep Learning Libraries
+ 8.425 Supervised Learning - Comprehensive Tutorial (Python-based)
+ 9.695 Deep Learning Cheat Sheet (using Python Libraries)
+ 8.150 Deep Learning with TensorFlow in Python
+ 6.304 Deep Learning with TensorFlow in Python: Convolution Neural Nets
+ 7.124 Dogs vs. Cats: Image Classification with Deep Learning using TensorFlow in Python
+ 6.770 Deep Learning & Art: Neural Style Transfer – An Implementation with Tensorflow in Python
+ 7.428 Python Deep Learning tutorial: Create a GRU (RNN) in TensorFlow
+ 6.664 Some Reinforcement Learning: The Greedy and Explore-Exploit Algorithms for the Multi-Armed Bandit Framework in Python
+ 6.100 Tech Talk: Is Keras the Perfect Deep Learning Library in Python? 
+ 8.502 14 Timeless Reference Books
+ 6.927 Bookdown: Authoring Books with R Markdown
+ 7.991 A Plethora of Data Science and Machine Learning Books
+ 7.621 7 Top Data Visualization Books for Inquisitive Minds
+ 7.869 Three Things About Data Science You Won't Find In the Books
+ 6.153 DSC Classifieds: Books, Data Sets, Internships, Gigs, Events and more
+ 6.982 Top Data Analysis Books and Videos to become an Expert in Data 
+ 7.942 17 Great ML Books and Funny Pictures 
+ 6.480 Top 5 Books on AI and ML to Grab Today 
+ 9.839 22 Timeless Reference Books
+ 7.889 Self-Learn Yourself Apache Spark in 21 Blogs - #1
+ 7.766 Self-Learn Yourself Apache Spark in 21 Blogs – #3
+ 7.290 Self-Learn Yourself Apache Spark in 21 Blogs – #2
+ 9.429 Scikit-Learn Tutorial Series
+ 7.521 Learn the Concept of linearity in Regression Models
+ 6.825 Self-Learn Yourself Apache Spark in 21 Blogs – #5
+ 7.314 Learn under the hood of Gradient Descent algorithm using excel
+ 7.899 Decision Trees, Classification & Interpretation Using SciKit-Learn
+ 5.943 Learn how is AngularJS different from jQuery
+ 9.066 7 Visualizations You Should Learn in R
+ 8.018 Neural Network Algorithms - Learn How To Train ANN
+ 8.676 Boost your data science skills. Learn linear algebra.
+ 7.088 Showcase your Data Science Expertise, and Learn New Tricks from Pros
+ 5.908 7 Reasons Why Java Developers Should Learn Hadoop
+ 5.924 Going Deeper: More Insight Into How and What Convolutional Neural Networks Learn
+ 7.826 Is It Too Late For Me To Learn Coding? 
+ 6.707 How to Visualize a Decision Tree from a Random Forest in Python - using Scikit-Learn
+ 9.353 Learn ML Coding Basics in a weekend – a new approach to coding for AI
+ 6.256 Why Every Data Science Aspirant Should Learn Data Visualization 
+ 5.787 IoT Has Redefined Hospitality. Learn How
+ 6.795 First Step to Become Data Scientist
+ 5.778 Question: Career switch from Data Analyst to Data Scientist 
+ 5.796 Data Scientist, Business & IT – Importance to have everyone on the same page
+ 6.801 The World of Data, as We Know It
+ 6.971 Data Science: What Marketing Professionals should Know about it
+ 7.575 What I Always Wanted To Know About Big Data
+ 9.101 25 Big Data Terms You Must Know To Impress Your Date (Or whoever you want to)
+ 7.367 50 Important Things You Need to Know About Data Science
+ 8.050 Five Misconceptions about Data Science - Knowing What You Don't Know
+ 4.949 The Skinny on Big Data: Everything You Need to Know From Our CTO 
+ 6.244 Getting to Know Keras for New Data Scientists 
+ 4.812 You Had an Ongoing Data Breach for Months. How Could You Not Know?
+ 8.170 Must Know Tips/Tricks in Deep Neural Networks
+ 7.780 Five Myths About Machine Learning You Need To Know Today
+ 7.893 IoT 101 – Everything You Need to Know to Start Your IoT Project
+ 7.253 IoT 101 – Lesson 2: Everything You Need to Know to Start Your IoT Project
+ 7.226 IoT 101 – Lesson 3: Everything You Need to Know to Start Your IoT Project
+ 7.547 Must Know Tips/Tricks in Deep Neural Networks
+ 6.678 These IoT Sensors Want to Know How You Feel – And Maybe Even Change Your Mood
+ 6.407 Everything you need to Know about Scaling MySQL
+ 8.011 Top Hadoop Terms You Need to Know
+ 5.832 What You Possibly Don’t Know About Columnar Storage
+ 6.118 Using Design to Drive Business Outcomes, or Uncovering What You Don’t Know That You Already Know
+ 6.868 Supervised Learning – Everything You Need To Know 
+ 6.133 Everything You Need to Know About Convolutional Neural Networks 
+ 7.461 Math You Don't Need to Know for Machine Learning 
+ 7.042 Everything You Wanted To Know About Recommender Systems 
+ 5.242 Dynamics 365 vs. SAP Business One: All You Need to Know
+ 6.956 Three Excel Core-Features Even Excel-Pros Don't Know
+ 7.474 Be A Star Data Scientist: Certifications For Overall Excellence
+ 9.205 What Does A Data Scientist Really Do?
+ 9.742 5 Excel Add Ins Every Data Scientist Should Install
+ 8.227 Data Scientist Breaks State Monopoly on Lotteries
+ 7.029 Citizen Data Scientist – Care, Feeding, and Control
+ 8.921 18 Useful Mobile Apps for Data Scientist / Data Analysts
+ 6.582 4 Things Your Data Scientist Should Not Be Doing
+ 6.184 Data Science Career Opportunities: Your Guide To Unlocking Top Data Scientist Jobs
+ 8.718 Data Scientist Skill Set
+11.401 Data Scientist Core Skills
+ 5.568 (Mild Humor) Notes by an OCD Data Scientist about Christmas
+ 6.330 Artificial or Augmented Intelligence: Talks with Intel’s Chief Data Scientist, Bob Rogers
+ 6.188 Frankenstein's Data Scientist
+ 6.009 What are some Data Scientist KPI's?
+ 7.814 Lessons in Becoming an Effective Data Scientist
+ 6.087 Are You Ready To Become A Chief Data Scientist?
+ 8.192 Why Every Data Scientist Needs A Data Engineer
+ 6.522 Benefits Of Being A Data Scientist Professional
+ 6.724 Soft Skills Every Data Scientist Must Possess
+ 9.495 Full Stack Data Scientist: The Elusive Unicorn and Data Hacker 
+ 5.945 So You Think You Can Be A Data Scientist? 
+ 7.499 Basic Statistics Concepts Every Data Scientist Should know 
+ 6.071 Deep learning Data Sets for Every Data Scientist 
+ 5.892 Preparing for Data Scientist interviews 
+ 6.871 What are the Typical Data Scientist Profiles on LinkedIn? Survey Re...
+ 7.074 Why Every Data Scientist Needs A Data Engineer
+ 5.583 Build an AI-powered Organization? Think Like A Data Scientist
+ 6.601 A New Breed of Mathematics: Topology
+ 7.652 Mathematics Optimization to Build Decision Making
+ 9.309 Data Science and Machine Learning Without Mathematics
+ 6.833 Learning Mathematics for Data Science 
+ 6.877 An Application of Data Science and Mathematics in Finance +
+ 7.128 The Mathematics behind Artificial Intelligence and Deep Learning 
+ 5.056 Let's Add Coding to Writing in Mathematics 
+ 7.639 Connections between Neural Networks and Pure Mathematics
+ 7.894 How to Bin or Convert Numerical Variables to Categorical Variables with Decision Trees
+ 7.475 15 Great Articles About Decision Trees
+ 6.404 R Decision Trees - A Tutorial to Tree Based Modeling in R
+ 7.155 Why do Decision Trees Work?
+ 8.337 Have You Heard About Unsupervised Decision Trees
+ 7.818 The Complete Guide to Decision Trees +
+ 8.078 Comparing Classifiers: Decision Trees, K-NN & Naive Bayes 
+ 6.509 Exploratory Visualization of Manhattan Street Trees
+ 6.884 Visualizing Bagged Trees as Approximating Borders
+ 8.220 12 Most Popular Data Science Articles in 2015
+ 7.302 500 Data Science Articles Visually Accessible on Twitter
+ 9.084 15 Most Controversial Data Science Articles
+ 6.860 12 Great Data Science Articles by Bill Vorhies
+ 7.420 8 Deep Data Science Articles
+ 8.293 What is Data Science? 24 Fundamental Articles Answering This Question
+ 8.571 Top 30 Data Science Articles of the Year
+ 7.419 15 Timeless Data Science Articles
+ 8.412 18 Timeless Data Science Articles
+ 5.897 12 Great Articles from Big Data News
+ 7.482 25 Timeless Data Science Articles
+ 7.565 22 Great Articles About Statistics - For Data Scientists
+ 7.309 44 Original Data Science and Machine Learning Articles
+ 6.970 Selection of Great Data Science Articles still Worth Reading
+ 6.330 Ajit Jaokar Retrospective: AI, ML, IoT, Data Science Articles 
+ 7.462 19 Controversial Articles about Data Science 
+10.268 15 Deep Learning Libraries
+ 9.438 10 Deep Learning Terms Explained in Simple English
+ 9.050 Deep Learning Demystified
+ 8.764 When Does Deep Learning Work Better Than SVMs or Random Forests?
+ 8.055 Deep Learning Libraries by Language
+ 7.807 Guide to Deep Learning
+ 7.387 Applications of Deep Learning
+ 8.596 Deep Learning Epic Fail – Right Answer - Wrong Reason
+ 6.471 How to Start Learning Deep Learning
+ 8.653 Concise Visual Summary of Deep Learning Architectures
+ 8.331 15 Deep Learning Tutorials
+ 9.011 Beyond Deep Learning – 3rd Generation Neural Nets
+ 7.890 Accelerated Computing and Deep Learning
+ 7.582 What is Deep Learning?
+ 7.698 Year in Review: Deep Learning Breakthoughts 2016
+ 7.032 Ahem Detector with Deep Learning
+ 8.928 Has Deep Learning Made Traditional Machine Learning Irrelevant?
+ 7.970 Deep Learning in Action
+ 8.123 Building a Deep Learning Model for Process Optimisation
+ 6.879 Deep Learning (DL) versus Analysis Learning (AL)
+ 6.640 Deep Learning: Artificial Intelligence Is Important?
+ 7.058 Deep Learning lets Regulated Industries Refocus on Accuracy
+ 8.803 Deep Learning Resource Matrix
+ 7.833 Squeezing Deep Learning into Mobile Phones - A Practitioner's guide
+ 8.332 Getting Started with Deep Learning
+ 8.885 Goodbye Age of Hadoop – Hello Cambrian Explosion of Deep Learning
+ 8.049 Deep Learning in Action (the less-math-more-apps version)
+ 7.735 Deep Learning Meets Recommendation Systems
+ 8.571 Quantum Computing and Deep Learning. How Soon? How Fast?
+10.720 15 Deep Learning Tutorials
+ 7.356 What are the Limits of Deep Learning?
+ 6.680 Identifying Traffic Signs with Deep Learning
+ 8.926 When Not to Use Deep Learning
+ 7.318 End to End Deep Learning.
+ 6.909 Why Deep Learning is Taking off? Season 1 : Part 1
+ 8.444 Search for the fastest Deep Learning Framework supported by Keras
+ 6.153 Deep Learning Explained - in 4 Simple Facts
+ 7.533 Deep Learning Research Review: Natural Language Processing
+ 8.369 Deep Learning Cheat Sheet for Beginners
+ 9.155 Deep Learning versus Machine Learning in One Picture
+ 7.664 Deep Learning: Theano Obituary
+ 6.337 From Artificial Intelligence to Deep Learning
+ 8.196 Accelerated Computing and Deep Learning
+ 5.953 Ranking Popular Deep Learning Libraries for Data Science
+ 5.635 A Comparative Roundup: Artificial Intelligence vs. Machine Learning vs. Deep Learning
+ 5.849 A Primer on Deep Learning
+ 8.450 Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks
+ 6.938 Deep Learning And The Information Bottleneck
+ 6.575 RNNoise: Learning Noise Suppression with Deep Learning
+ 8.959 Deep Learning: AlphaGo Zero Explained In One Picture
+ 7.148 An Executive Primer to Deep Learning
+ 6.207 What Comes After Deep Learning
+ 8.487 Automated Deep Learning – So Simple Anyone Can Do It
+ 5.823 How to do Speech Recognition with Deep Learning
+ 6.009 Deep Learning Infrastructure for Extreme Scale with ?the Apache Kafka Open Source Ecosystem
+ 6.378 How Deep Learning Will Change Customer Experience
+ 7.168 Artificial Intelligence vs. Machine Learning vs. Deep Learning
+ 5.883 Uncovering Anxious Deep Learning for Ease
+ 5.257 Design Patterns for Deep Learning Architectures
+ 7.134 Scalable IoT ML Platform with Apache Kafka + Deep Learning + MQTT
+ 6.080 Why Use Framework for Deep Learning? 
+ 7.352 Deep Learning Research Review: Natural Language Processing +
+ 6.472 Deep Learning Networks: Advantages of ReLU over Sigmoid Function 
+ 8.555 Things that Aren’t Working in Deep Learning 
+ 7.685 [New] Handbook of Deep Learning Applications (Springer) 
+ 6.755 Deep Learning Explainability: Hints from Physics 
+ 7.882 Calibrated Quantum Mesh – Better Than Deep Learning for Natural Lan... 
+ 6.314 Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD
+ 5.069 How Deep Learning Can Create an Added Value in Retail
+ 6.813 How to Detect Objects with Deep Learning on Raspberry Pi
+ 5.919 What to do when applying Deep Learning is overkill
+ 6.407 Visually Explained: How Can Executives Make Sense of Machine Learning & Deep Learning?
+ 5.361 How To Leverage Deep Learning For Automation Of Mobile Applications
+ 6.215 Fighting Overfitting in Deep Learning
+ 6.774 Deep Learning : Introduction to Long Short Term Memory
+ 8.546 Top Algorithm, Data Science, Big Data and Machine Learning Experts
+ 7.744 Machine Learning is all about Common Sense.
+ 8.674 10 Famous Machine Learning Experts
+ 7.645 Cloud Machine Learning APIs
+ 8.654 A Short History of Machine Learning
+ 9.356 Top 10 Machine Learning Algorithms
+ 8.780 Machine Learning Algorithm Identifies Tweets Sent Under the Influence of Alcohol
+ 7.773 Don't Buy Machine Learning
+ 8.402 Machine Learning : Few rarely shared trade secrets
+ 6.755 TUPAQ - Automating Model Search for Large Scale Machine Learning
+ 7.584 Using Machine Learning to Predict Customer Behaviour
+10.080 Learning R in Seven Simple Steps
+ 8.043 Machine Learning Ontology
+ 7.326 Adaptive Machine Learning
+ 7.441 Data Science & Machine Learning Encyclopedia - 4,000 Entries
+ 8.021 Machine Learning is dead – Long live machine learning!
+ 6.902 Exclusive Learning Drive–Python for Data Science
+ 7.128 Machine Learning - Some Bones
+ 6.958 Machine Learning: An Analytical Invitation to Actuaries
+ 5.252 DataViZ, Data Science and Machine Learning White Papers - Part 3
+ 7.576 Dynamical Machine Learning: Bayesian exact recursive estimation
+ 7.365 Distributed Machine Learning with Apache Mahout
+ 7.313 Marrying Kalman Filtering & Machine Learning
+ 6.495 DataViZ, Data Science and Machine Learning White Papers - Part 4
+ 7.067 Machine Learning Becomes Mainstream: How to Increase Your Competitive Advantage
+ 7.180 25 Java Machine Learning Tools & Libraries
+ 6.996 Machine Learning: The Bigger Picture
+ 6.140 A Sneak Peek at the Future of Artificial Intelligence & the Newest Trends in Machine Learning
+ 7.692 Generalized Dynamical Machine Learning
+ 7.736 Static & DYNAMICAL Machine Learning – What is the Difference?
+ 8.302 Human Brain vs Machine Learning - A Lost Battle?
+ 5.118 Machine Learning Wonder!
+ 8.242 Machine Learning vs. Traditional Statistics: Different philosophies, Different Approaches
+ 8.987 Price Optimisation Using Decision Tree (Regression Tree) - Machine Learning
+ 5.878 IoT Machine Learning – Industrial or Printing Press revolution?
+ 6.035 Machine Learning Models Predicting Dangerous Seismic Events
+ 7.724 Four Great Pictures Illustrating Machine Learning Concepts
+ 7.919 Why so many Machine Learning Implementations Fail?
+ 8.203 Want to know how to choose Machine Learning algorithm?
+ 8.378 5 Machine Learning Research Studies To Understand & Predict Length of Stay in Hospitals
+ 6.729 Could Machine Learning Help Save Millions From Travel Delays?
+ 5.778 Notable Fundraising Highlights of Machine Learning Startups in 2016
+ 9.731 140 Machine Learning Formulas
+ 8.588 State-of-the-Art Machine Learning Automation with HDT
+ 9.956 Machine Learning Summarized in One Picture
+ 9.708 Advanced Machine Learning with Basic Excel
+ 7.482 The ROI of Machine Learning in Business - Infographics
+ 7.809 Intuitive Machine Learning : Gradient Descent Simplified
+ 7.324 Next Machine Learning Paradigm: "Dynamical" ML
+ 7.932 Factoring Massive Numbers with Machine Learning Techniques
+ 6.229 Machine-Learning with Renthop
+ 6.703 How Machine Learning is Revolutionizing Digital Enterprises
+ 8.068 Machine Learning Skills Among Data Scientists
+ 6.854 Understanding Machine Learning: How machines learn?
+ 7.554 Key Machine Learning PreReq: Viewing Linear Algebra through the right lenses
+ 7.629 5 ways to improve the model accuracy of Machine Learning
+ 7.042 Apply Machine Learning Techniques to Problems in Financial Market
+ 6.491 Programming Languages widely used in Data Science and Machine Learning ?
+ 7.179 Creating Your First Machine Learning Classifier Model in Sklearn
+ 8.787 A Guide for Applying Machine Learning Techniques in Finance
+ 5.969 Securing Competitive Advantage with Machine Learning
+ 7.254 How to Start Incorporating Machine Learning in Enterprises
+ 7.090 Trends Shaping Machine Learning in 2017
+ 5.714 Detecting In-App Purchase Fraud with Machine Learning
+ 7.087 Advances in Machine Learning Research
+ 8.095 What tomorrow’s business leaders need to know about Machine Learning?
+ 7.012 The E-Dimension: Why Machine Learning Doesn’t Work Well for Some Problems?
+ 7.476 Can a Machine Learning algorithm predict the next fight with your girlfriend?
+ 6.346 Key Factors in The Successful Use of Machine Learning
+ 5.069 Machine Learning Army Camp (Official Trailer)
+ 7.468 Automated Machine Learning for Professionals
+ 7.712 Data Science Simplified Part 2: Key Concepts of Statistical Learning
+ 7.076 Top 9 Machine Learning Applications in Real World
+ 6.196 Artificial Neural Network (ANN) in Machine Learning
+ 7.988 Machine Learning Vs. Statistics
+ 7.378 More on Fully Automated Machine Learning
+ 6.763 Boosting the accuracy of your Machine Learning models
+ 6.963 Robust Attacks on Machine Learning Models
+ 7.785 Under the Hood with Reinforcement Learning – Understanding Basic RL Models
+ 7.519 Evolution of Machine Learning - Infographics
+ 6.752 Machine Learning - The brain of Digital Transformation
+ 6.990 Machine Learning in Fintech - Demystified
+ 7.133 Reinforcement Learning Part 3 – Challenges & Considerations
+ 6.180 Why Cognitive Systems should combine Machine Learning with Semantic Technologies
+ 7.319 How to Train a Final Machine Learning Model
+ 6.157 Big Data and Machine Learning:
+ 6.492 10 Companies Using Machine Learning in Cool Ways
+ 6.955 Machine Learning as a Service – MLaaS
+ 8.474 27 Great Articles About Machine Learning Algorithms
+ 6.988 DevOps Pipeline for a Machine Learning Project
+ 5.338 Harnessing Machine Learning in Payments
+ 7.248 Building your first Machine Learning model on iPhone
+ 9.422 Machine Learning vs. Traditional Statistics: Different philosophies, Different Approaches
+ 6.833 Learning Binary Classification by Simulations
+ 6.265 What Will Shape the Future of Machine Learning in 2018?
+ 8.212 Decoding Machine Learning Methods
+ 7.990 Machine Learning Glossary by Google
+ 8.808 J.P. Morgan's Comprehensive Guide on Machine Learning
+ 7.242 The Basic Stuff of Machine Learning
+ 7.954 Enterprise AI: Learning from the evolution of Robotic Process Automaton
+ 6.157 One-shot Learning with Memory-Augmented Neural Networks
+ 8.738 Machine Learning – Can We Please Just Agree What This Means
+ 8.528 Google Tutorial on Machine Learning
+ 6.172 2018: The Year of the Self-Learning Data Organization
+ 6.775 Using Real Time Marketing and Machine Learning based Analytics to Drive Customer Value Management
+ 7.574 Creating Your First Machine Learning Classifier with Sklearn
+ 8.126 Supervised Learning Use Cases: Low-Hanging Fruit in Data Science for Businesses
+ 5.775 Machine Learning Poised to Impact Business Analytics
+ 7.500 Automated Text Classification Using Machine Learning
+ 7.258 Which Machine Learning Algo will continue to be in use in year 2118?
+ 6.323 Using SQL to Estimate Customer Lifetime Value (LTV) without Machine Learning
+ 6.531 Apache Spark with Scala- Learning Path Decoded
+ 6.974 Machine Learning : Real World Applications
+ 7.082 Probabilistic Forecasting: Learning Uncertainty
+ 6.457 Machine Learning Explained: Understanding Supervised, Unsupervised & Reinforcement Learning
+ 6.335 Big Data and Machine Learning (Google case)
+ 5.606 Learning Distributed Word Representations with Neural Network: an implementation from scratch in Octave
+ 9.071 Traditional Programming versus Machine Learning, in One Picture
+ 7.132 Soccer and Machine Learning: 2 hot topics for 2018
+ 8.563 Next Generation Automated Machine Learning (AML)
+ 5.994 Machine Learning with Signal Processing Techniques
+ 6.417 Learning Rules in Neural Network
+ 6.148 Machine Learning with C++ - Polynomial Regression (CPU)
+ 5.740 Unsupervised Learning an Angle for Unlabelled Data World
+ 7.569 Transfer Learning –Deep Learning for Everyone
+ 6.547 Reinforcement Learning – Reward for Learning
+ 7.298 How Machines Are Learning From Customers And Predicting Human Behavior
+ 6.564 Generalized Machine Learning - Kerneml - Simple ML to train Complex ML
+ 7.565 Machine Learning with Signal Processing Techniques
+ 9.962 State-of-the-Art Machine Learning Automation with HDT
+ 8.613 15 Data Science and Machine Learning Courses from Top Schools
+ 7.796 Machine Learning Process Summarized in Two Pictures
+ 7.206 What a CEO needs to know about Machine Learning algorithms
+ 6.286 Astonishing Hierarchy of Machine Learning Needs
+ 7.207 Machine Learning with C++ - Polynomial Regression on GPU
+ 6.768 Why GDPR will Make Machine Learning not so legal
+ 6.435 What is Machine Learning? Why Machine Learning?
+ 6.054 Machine Learning is Fun
+ 7.466 The Most Popular Language For Machine Learning Is ...
+ 5.927 Machine Learning with C++ - Polynomial regression with Eigen
+ 5.892 Powerful, Hybrid Machine Learning Algorithm with Excel Implementation
+ 6.863 Use cases of Machine Learning for E-commerce enterprises
+ 7.184 Best Machine Learning Tools: Experts’ Top Picks
+ 7.153 Feature Selection For Unsupervised Learning
+ 5.501 Machine Learning with C++ - Classification with Shogun library
+ 7.213 Which Programming Language Is Considered To Be Best For Machine Learning?
+ 6.071 Machine Learning with C++ - Classification with Shark-ML
+ 5.533 Machine Learning with C++ - Classification with Dlib
+ 8.703 General Myths to avoid in Data Science and Machine Learning
+ 7.499 How Can You Find The Best Machine Learning Frameworks?
+ 6.098 My Learning Sabbatical 
+ 6.524 Reinforcement Learning: Super Mario, AlphaGo and beyond 
+ 8.360 How to Choose a Machine Learning Model – Some Guidelines 
+ 7.234 The Math Behind Machine Learning 
+ 6.435 Use case of Machine Learning in Clean Energy Sector 
+ 7.618 Applying Machine Learning Techniques in Quantitative Finance +
+ 6.744 Speedup your Machine Learning applications without changing your code 
+ 6.324 Learning Machine Learning: A Personal Journey 
+ 6.978 A guide for using the Wavelet Transform in Machine Learning +
+ 7.321 The Math Required for Machine Learning 
+ 7.144 State of Data Science & Machine Learning in 2018 
+ 4.263 Question: Machine Learning - Reviews System 
+ 5.517 Supervised vs Unsupervised Learning...Whats the Big Deal? 
+ 6.819 Five Latest Machine Learning eBooks 
+ 6.131 [New Book] Machine Learning with Apache Spark - Quick Start Guide
+ 5.442 What Are Machine Learning Models Hiding? 
+ 6.380 What is Automated Machine Learning (AutoML)? 
+ 5.485 Augumented Reality in Learning 
+ 7.716 Unsolved Problems in Machine Learning 
+ 6.315 Reinforcement Learning Explained - Overview, Comparisons and Applications in Business
+ 7.860 Data Science Learning Path For Complete Beginners 
+ 6.180 Azure Machine Learning concepts - an Introduction
+ 8.680 Gentle Approach to Linear Algebra, with Machine Learning Applications 
+ 6.720 7 Simple Tricks to Handle Complex Machine Learning Issues 
+ 7.435 How to Make Machine Learning Models for Beginners 
+ 6.358 Bayesian Machine Learning 
+ 5.864 Open-source Logistic Regression for accelerated Machine Learning 
+ 5.866 Google Machine Learning Glossary 
+ 6.363 Bayesian Machine Learning 
+ 8.028 Thinking about Moving Up to Automated Machine Learning (AML) 
+ 4.700 Best Machine Learning Tools to Modernize your Software Development 
+ 6.413 What does the Machine Learning process look like? 
+ 5.130 Machine Learning has Significant Potential for the Manufacturing Se... 
+ 6.412 Common Applications of Machine Learning for Small-Scale Businesses 
+ 7.045 The tools you should know for the Machine Learning projects 
+ 6.645 Machine Learning in Hospitals: Easing Wait Times in the ER 
+ 5.727 The Power of Machine Learning Models 
+ 6.686 Bayesian Machine Learning 
+ 6.970 Machine Learning on Mobile: Case Study 
+ 7.176 Labeling with Active Learning 
+ 7.717 Machine Learning vs Statistics vs Statistical Learning in One Picture +
+ 6.646 Bayesian Machine Learning Part 5
+ 5.762 Regularization in Machine Learning
+ 6.324 How GANs and Adaptive Content Will Change Learning, Entertainment a...
+11.663 Common Errors in Machine Learning due to Poor Statistics Knowledge
+ 6.713 Introduction to Various Reinforcement Learning Algorithms
+ 9.453 The Math of Machine Learning - Berkeley University Textbook
+ 5.620 Boosting your Machine Learning productivity with SAS Viya
+ 7.184 Bayesian Machine Learning
+ 6.409 Using Machine Learning to Solve Business Problems
+ 9.781 40+ Modern Tutorials Covering All Aspects of Machine Learning
+ 6.271 Bayesian Machine Learning - Part 7
+ 7.693 Complete Hands-Off Automated Machine Learning +
+ 6.452 Federated Machine Learning - Collaborative ML without Centralised Training Data
+ 8.424 Unsupervised Learning Algorithms in One Picture
+ 6.335 AAD, Backpropagation and Machine Learning in Finance
+ 6.082 Implementing Augmented Reality in Learning
+ 6.420 Bayes, Ockham, Shannon and Machine Learning
+ 5.485 Machine Learning in Banking & Insurance Industry
+ 6.324 Reinforcement Learning to Reduce Building Energy Consumption
+ 6.845 The Rise of Fake News: A Machine Learning Challenge
+ 5.366 Creating Assets that Appreciate, Not Depreciate, in Value Thru Continuous Learning – Part II
+ 6.443 H2O Framework for Machine Learning
+ 5.892 Data Science: Learning from the Mistakes
+ 6.918 Machine Learning Technical Landscape in one picture
+ 6.223 Reimagining Reinforcement Learning – Upside Down
+ 6.957 Can Reinforcement Learning Break Through in 2020?
+ 6.474 Machine Learning in Banking – Opportunities, Risks, Use Cases
+ 7.040 RPA + Machine Learning = Intelligent Automation
+ 5.220 Refined Data is the Key to Train Machine Learning
+ 7.505 Machine Learning Mindmap
+ 8.554 Common Errors in Machine Learning due to Poor Statistics Knowledge
+ 6.578 Mastering Machine Learning Algorithms - Second Edition
+ 6.146 12 Real-World Applications of Machine Learning in Healthcare
+ 7.855 Supervised Learning vs Unsupervised & Semi Supervised in One Pi...
+ 6.254 Upskilling: What Is A Learning Sprint?
+ 5.447 Predictive Analytics and Machine Learning in Retail Industry
+ 4.331 Web Personalisation with Drupal and Machine Learning
+ 5.753 Regularization in Machine Learning
+ 5.808 How Machine Learning Is Changing the World
+ 6.256 Better Banking with help of Analytics and Machine learning
+ 5.710 Performance evaluation of cloud computing platforms for Machine Lea...
+ 7.572 Book: Statistics for Non-Statisticians
+ 6.675 Book: Efficient R Programming
+ 5.787 Book: Ten Signs of Data Science Maturity
+ 7.328 Book: ‘Rogue Algorithms’ and the Dark Side of Big Data
+ 7.863 Book: A Guide To Data Science Interviews
+ 6.507 Book: Data for Business Performance
+ 7.761 New Book: Time Series Forecasting With Python
+ 7.628 Book: Advanced R
+ 7.643 Book: Data Science for the Layman: No Math Added
+ 7.005 Book review: The Mathematical Corporation
+ 8.267 New Book: Analytics -- How to Win with Intelligence
+ 8.338 Book: Text Analytics with Python
+ 6.964 New Book: Data Science: Mindset, Methodologies, and Misconceptions
+ 7.789 Book: R for Data Science
+ 7.754 Book: Mastering Feature Engineering
+ 7.651 Book: A Guide to Data Science for Fraud Detection
+ 6.935 Book: Introduction to Statistics
+ 7.856 Book: The Master Algorithm
+ 7.123 Book: Blockchain Basics
+ 7.738 Book: Artificial Intelligence with Python
+ 5.700 New Book: AI and Analytics - Accelerating Business Decisions
+ 5.283 Book: OpenStack Cloud Computing Cookbook - Fourth Edition
+ 7.419 Book: Artificial Intelligence with Python
+ 7.400 Book: Blockchain Basics: A Non-Technical Introduction in 25 Steps
+ 5.278 New Book: Creating Value with Social Media Analytics
+ 6.455 New Book: Principles of Database Management
+ 6.373 New Book : Big Data in Engineering Applications
+ 8.134 Data Scientist's Book of Quotes
+ 8.243 New Book: Enterprise AI - An Applications Perspective 
+ 6.140 New Book: Automated Data Science and Artificial General Intelligence 
+ 4.898 New Book: Architects of Intelligence 
+ 6.568 Book: Statistics for Managers Using Microsoft Excel 
+ 6.545 Upcoming Book: Foundations of Data science 
+ 7.219 New Book: Data Science for Healthcare - Methodologies and Applications 
+ 5.565 Book: AI for People and Business 
+ 6.366 New Book: AI and Data Strategy 
+ 6.466 Ember Data: A Comprehensive Tutorial for the ember-data Library
+ 7.365 A Comprehensive Guide to Data Exploration
+ 5.649 New Comprehensive Taxonomies on Mobile Security and Malware Analysis
+ 7.721 Apache Spark Introduction – A Comprehensive Guide for beginners
+ 5.940 A Comprehensive Guide to Stochastic Gradient Descent Algorithms
+ 7.703 Big Data: 17 Predictions Everyone Should Read
+ 5.159 Top 9 Big Data Security Issues You Should Watch For
+ 6.078 We Should Feel Safer Than We Do Analysis, Data Set, R Code
+ 6.238 Big Data: 17 Predictions Everyone Should Read
+ 6.652 Which Data Science Techniques Should I Introduce to my Team Members?
+ 7.092 Why You Should Encourage Your Daughters to Become Data Scientists
+ 8.595 How Millennials Should View the World of Data Science +
+ 6.498 Why I Am Writing At Data Science Central, And Why You Should, Too 
+ 8.606 Why You Should be a Data Science Generalist - and How to Become One
+ 4.595 Why You Should Integrate Big Data into Your .NET solutions
+ 7.249 Why the NoSQL Movement Should Have Been Called the JSON Movement
+ 5.024 Should robots have to pay taxes?
+ 5.598 Should you go to GeekGirlCon?
+ 5.704 Corporate Self Service Analytics: 4 Questions You Should Ask Yourself Before You Start
+ 8.007 Deadly Commands You Should Never Run on Linux
+ 7.147 Should Python Become Your Official Corporate Language - Along With English?
+ 6.706 Privacy and AI - How Much Should We Really Care 
+ 6.948 We See in 3D – So Should Our CNN Models
+ 7.718 The lipstick robot - A great way to explain Deep learning
+ 8.087 Deep learning & XgBoost : Winning it hands down !
+ 6.578 Deep Diving the Data Lake – Automatically Determining What’s In There
+ 5.328 Data Tagging in Medical Imaging – Diving Deep into the Processes
+ 7.030 Run Deep learning models for free using google colaboratory 
+ 6.129 Deep learning in satellite imagery 
+ 6.550 Adversarial Attacks on Deep Neural Networks: an Overview 
+ 6.292 Deep Analytics: Risk Management with AI
+ 7.404 Data Science Best Practices
+ 6.422 5 Best Practices for Email Data Analysis
+ 7.104 The Best Kept Secret in Data Science
+ 8.233 The Best Opportunities in AI for Data Scientists 
+ 5.403 Question: Best practice during Data preparation 
+ 6.192 Best Countries in the Big Data Industry in 2019
+ 7.298 Best Degree for Data Science (in One Picture)
+10.019 Best Languages for Data Science and Statistics in One Picture
+ 7.471 Best countries to work for software engineers, developers and data scientists in 2017
+ 6.597 Best 2019 Paper Awards in Computer Vision +
+ 7.045 Best Artificial Intelligence Technologies to know in 2019
+ 7.185 Sentiment Analysis of Movie Reviews (2): word2vec
+ 7.240 Sentiment Analysis of Movie Reviews (1):Bag-of-Words Models
+ 7.451 Sentiment Analysis of Movie Reviews (3): doc2vec
+ 7.782 Sentiment Analysis of Movie Reviews (2): word2vec
+ 7.778 Sentiment Analysis of Movie Reviews (1):Bag-of-Words Models
+ 8.951 Text Classification & Sentiment Analysis tutorial / blog
+ 7.456 Opinion Mining - Sentiment Analysis and Beyond
+ 7.483 Brand-Value Analysis with simple Sentiment Analysis using Shiny / R
+ 7.472 Find best hotel for vacation with Sentiment Analysis
+ 7.003 Text Mining and Sentiment Analysis - A Primer
+ 6.625 Text Summarization and Sentiment Analysis: Novel Approach 
+ 6.328 Sentiment Analysis of Amazon Customer Reviews with Visualizations 
+ 6.800 Sentiment Analysis of Airline Tweets 
+ 7.160 Twitter Sentiment Analysis Applied to Customer Loyalty Prediction 
+ 8.316 Sentiment Analysis with Naive Bayes and LSTM
+ 7.657 Internet of Things: Selected Articles
+ 7.657 Internet of Things: Selected Articles
+ 7.507 Last Great Articles of 2015
+ 5.649 10 Most Commented DSC Articles
+ 7.575 16 Great IoT Articles Published in 2016
+ 7.513 11 Great Hadoop, Spark and Map-Reduce Articles
+ 7.963 13 Great Articles and Tutorials about Correlation
+ 7.597 14 Great Articles and Tutorials on Clustering
+ 6.498 Six Articles About Hadoop, IoT, AI, DataViZ, and NLP
+ 8.424 26 Great Articles and Tutorials about Regression Analysis
+ 7.993 10 Articles and Tutorials about Outliers
+ 7.933 21 Great Articles and Tutorials on Time Series
+ 5.958 Cleantech in the News: Scraping and Analysis of Online Articles
+ 7.672 20 Great Articles about AI
+ 7.565 11 Great Articles About Natural Language Processing (NLP)
+ 6.612 13 Great Articles from AnalyticBridge
+ 8.467 20 Interesting Articles About Excel
+ 6.743 Six Great Articles About Quantum Computing and HPC
+ 7.926 7 Great Articles About TensorFlow
+ 6.886 14 Great Articles About Cross-Validation, Model Fitting and Selection
+ 7.308 18 Great Articles About Predictive Analytics
+ 6.713 13 Great Articles About K-Nearest-Neighbors And Related Algorithms
+ 8.289 22 Great Articles About Neural Networks
+ 6.326 17 Great Articles Posted in the last 12 Months
+ 5.756 Selected Recent Articles from Top DSC Contributors - Part 1
+ 6.057 Selected Recent Articles from Top DSC Contributors - Part 2
+ 7.421 10 Great Articles about Stochastic Processes and Related Topics
+ 5.835 Selected Recent Articles from Top DSC Contributors - Part 3
+ 7.034 22 Great Articles and Tutorials on Classification Methods
+ 5.908 Selected Recent Articles from Top DSC Contributors - Part 4
+ 5.945 Selected Recent Articles from Top DSC Contributors - Part 5
+ 5.645 Selected Recent Articles from Top DSC Contributors - Part 6
+ 5.666 Selected Recent Articles from Top DSC Contributors - Part 7
+ 6.798 Using AI to Write Articles and Research Papers
+ 7.157 900 Most Popular DS & ML Articles in 2018 
+ 9.547 19 Great Articles About Natural Language Processing (NLP) 
+ 8.280 15 Great Articles about Bayesian Methods and Networks 
+ 9.568 34 Great Articles and Tutorials on Clustering 
+ 6.425 25 Search Queries Featuring Hundreds of Categorized Articles and Re... 
+ 8.845 25 Great Articles and Tutorials on Classification Methods
+ 6.639 Stop Hiring Data Scientists Until You're Ready for Data Science
+ 7.275 Data Team for Data Driven Organization
+ 8.231 Google Spreadsheet Add Ons for Data Analysis
+ 7.590 Top 5 Tools and Languages for Data Science
+ 6.127 R Visualization: My Quest for Data Hygiene
+ 7.698 Four Recent Salary Surveys for Data Scientists
+ 6.009 What is the right mix of competences for Data Scientists?
+ 6.612 Top programming languages for Data Science: first partial survey findings
+ 6.930 A Relocation Guidebook for Data Scientists and More
+ 7.701 8 Essential Tools for Data Scientists
+ 6.969 How to Use Hadoop for Data Science
+ 6.501 Data Virtualization: A Supermarket for Data
+ 5.727 Flafka: Big Data Solution for Data Silos
+ 7.676 Statistical Modeling; Selecting Predictors is a Challenge for Data Scientists
+ 7.912 Nice Generalization of the K-NN Clustering Algorithm -- Also Useful for Data Reduction
+ 8.222 DSC Competition for Data Science and Quant Pros - $2,000 Award
+ 8.093 Programming Languages for Data Science and ML - With Source Code Illustrations
+ 6.544 How to tailor your Academic CV for Data Science roles
+ 8.777 Sample Projects for Data Scientists in Training
+ 7.153 How to tailor your Academic CV for Data Science roles
+ 6.498 Is Your Organization Ready for Data Science?
+ 8.682 New Decimal Systems - Great Sandbox for Data Scientists and Mathematicians
+ 7.851 Top 20 R Libraries for Data Science in 2018 [Infographic]
+ 7.723 Top 15 Scala Libraries for Data Science in 2018
+ 6.924 Mixing & Matching in R for Data Science 
+ 8.277 Essential Math for Data Science 
+ 4.997 Creating a Culture that Works for Data Science and Engineering 
+ 7.462 Seven Techniques for Data Dimensionality Reduction 
+ 5.595 Question: 1099 C2C contracts for Data Scientists?
+ 5.342 MATLAB for Data Science 
+ 5.187 Question: Career Prospects for Data Science with a Graduate Engineering Degree and Apprenticeship?
+ 6.875 19 Courses (MOOC) on Math & Stats for Data Science & Machin... 
+ 6.742 Value Engineering: The Secret Sauce for Data Science Success 
+ 7.386 Math for Data Science in One Picture
+ 8.746 Statistics for Data Science in One Picture +
+ 6.324 2020 Trends, Predictions and Challenges for Data Management and Privacy
+ 5.595 A Pivotal Year for Data Scientists - 2020
+ 7.583 Which masters or PhD program should I choose for Data Science or AI?
+ 6.346 Bridging the Gap Between Data Science and DevOps
+ 5.553 Comparison Between Global Vs Local Normalization of Tweets, and Various Distances
+ 6.323 The Twilight Zone Between True and False
+ 5.814 Critical Skills to Bridge the Gap Between Software Development and Data Science
+10.099 22 Differences Between Junior and Senior Data Scientists
+ 9.339 5 Data Science Leaders Share their Predictions for 2016 and Beyond
+ 8.358 What's the best way to get started in Statistics for Programmers/Data Science?
+ 7.849 Is Data Science Ripe for a Massive Merger & Acquisition / Consolidation?
+ 7.996 Are You Using the Right Tools for Your Data Science Projects?
+ 8.388 19 Data Science Tools for people who aren’t so good at Programming
+ 6.970 3 Tips for Getting the Most Out of Your Data Science Team
+ 6.683 Curriculum Guidelines for Undergraduate Programs in Data Science
+ 6.354 ALDI – A New Paradigm for Integrating Marketing Analytics with Data Science
+ 7.329 Anomaly detection for the Oxford Data Science for IoT Course
+ 6.261 How Data Science Has Changed Everyday Life for the Better
+ 6.465 Predictive maintenance for the Oxford Data Science for IoT Course
+ 7.986 Career Advice for Students from 2017 Data Science Leaders
+ 6.669 Cliff Notes for Managing the Data Science Function
+ 9.555 Why Are Data Science Leaders Running for the Exit?
+ 7.279 How to setup a Data Science function for your organisation
+ 4.595 Data Science report reveals a confident market for 2019 
+ 6.663 Advice to a fresh graduate for getting a job in AI/ Data Science 
+ 5.472 News: Initiative for Analytics and Data Science Standards 
+ 4.663 Calculating Exclusion Limits for a New Theory in Hardcore Science 
+ 7.125 Top Three Online Data Science Courses for 2020
+ 6.568 Top Data Science Skills for 2020
+ 5.762 Top 5 Data Science Trends for 2020
+ 9.042 MUMPS – The Most Important Database You (Probably) Never Heard Of
+ 7.712 Debunking the 68 Most Common Myths About Big Data – Part 1
+ 7.741 Big Data's Most Influential Rock Stars: 10 Must-Follow Leaders
+ 7.297 Debunking the 68 Most Common Myths About Big Data – Part 2
+ 6.640 12 Most Commented Data Science Blogs
+ 6.384 A Statistical Approach to Pick the Most Impactful Advertising Channel for Product Marketing
+ 9.470 The Most Common Analytical and Statistical Mistakes
+ 8.677 Most cited deep learning papers
+ 7.855 17 Most Commented Data Science Blogs
+ 7.015 The 7 Most Important Data Mining Techniques
+ 4.511 AI as a Catalyst Across Most Cycles of the IoT
+ 7.463 Most Popular Text Analytics Tools and Algorithms
+ 7.488 Comparison of the Most Useful Text Processing APIs
+ 6.265 How to Get the Most Out of Your Predictive Analytics Tools - Infographics
+ 7.450 10 Most Popular Java Web Crawling & Scraping Libraries
+ 6.620 Most Popular Content on DSC 
+ 5.746 How Can Companies Get The Most Value Out Of Their Data
+ 6.800 Why Economics Is the Most Empowering Innovation Concept +
+
+
+-------------------------------------------
+Group 13
+
+keywords: ('Cheat~Sheet', 'Sheet', 'Cheat')
+
+Titles with normalized pv on the left:
+
+ 8.360 Stata Cheat Sheet
+ 9.089 New Machine Learning Cheat Sheet by Emily Barry
+ 9.480 A Cheat Sheet on Probability
+ 9.134 Data Science in Python: Pandas Cheat Sheet
+ 8.078 Matplotlib Cheat Sheet
+ 9.071 PySpark Cheat Sheet: Spark in Python
+ 9.695 Deep Learning Cheat Sheet (using Python Libraries)
+ 8.369 Deep Learning Cheat Sheet for Beginners
+ 7.210 The Ultimate R Cheat Sheet - Major Upgrade 
+ 8.962 Probability Cheat Sheet - Harvard University
+10.116 New Data Science Cheat Sheet, by Maverick Lin 
+ 8.427 Excel Cheat Sheet 
+12.379 Machine Learning and Data Science Cheat Sheet 
+ 9.188 Common Probability Distributions: The Data Scientist’s Crib Sheet
+ 6.438 Why is Data Missing from the Balance Sheet?
+ 9.459 20 Cheat Sheets: Python, ML, Data Science, R, and More
+ 9.797 Large Collection of Cheat Sheets - Neural Nets, Numpy, Pandas, Matplotlib, Scikit and ML
+ 7.018 How Do You Win the Data Science Wars? You Cheat By Doing The Necessary Pre-work +
+
+
+-------------------------------------------
+Group 8
+
+keywords: ('Tutorials', 'and~Tutorials~on', 'Great~Articles~and', 'Articles~and~Tutorials', 'Great^and', 'Articles~and')
+
+Titles with normalized pv on the left:
+
+ 8.080 Julia Programming Language Tutorials
+ 8.771 11 Deep Learning Articles, Tutorials and Resources
+ 9.379 Top 10 IPython Tutorials for Data Science and Machine Learning
+ 8.331 15 Deep Learning Tutorials
+ 7.963 13 Great Articles and Tutorials about Correlation
+ 7.597 14 Great Articles and Tutorials on Clustering
+ 8.424 26 Great Articles and Tutorials about Regression Analysis
+ 7.993 10 Articles and Tutorials about Outliers
+ 7.933 21 Great Articles and Tutorials on Time Series
+ 8.228 Amazing Infographics and Other Visual Tutorials
+ 8.672 100 Free Tutorials for learning R
+10.720 15 Deep Learning Tutorials
+ 6.489 100 Free Tutorials to learn SAS
+ 8.450 Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks
+ 7.034 22 Great Articles and Tutorials on Classification Methods
+ 9.568 34 Great Articles and Tutorials on Clustering 
+ 9.781 40+ Modern Tutorials Covering All Aspects of Machine Learning
+ 8.845 25 Great Articles and Tutorials on Classification Methods
+ 6.229 Great Analysis: Health, Wealth, and the Origins of Inequality
+ 7.513 11 Great Hadoop, Spark and Map-Reduce Articles
+ 6.743 Six Great Articles About Quantum Computing and HPC
+ 8.564 Two Great Courses on Deep Learning and AI
+ 6.886 14 Great Articles About Cross-Validation, Model Fitting and Selection
+ 7.421 10 Great Articles about Stochastic Processes and Related Topics
+ 8.682 New Decimal Systems - Great Sandbox for Data Scientists and Mathematicians
+ 8.872 Data Science and Machine Learning: Great List of Resources
+ 7.942 17 Great ML Books and Funny Pictures 
+ 8.280 15 Great Articles about Bayesian Methods and Networks 
+ 6.798 Using AI to Write Articles and Research Papers
+ 6.425 25 Search Queries Featuring Hundreds of Categorized Articles and Re... 
+
+
+-------------------------------------------
+Group 3
+
+keywords: ('Data^One', 'Data^Picture', 'Data~Science~in', 'Science~in')
+
+Titles with normalized pv on the left:
+
+ 7.657 Data Science for Internet of Things methodology - Evolving CRISP-DM - Part One
+ 9.545 R for Big Data in One Picture
+ 9.812 Data Science Summarized in One Picture
+ 9.511 Python for Big Data in One Picture
+ 8.760 The Future of Data Science in One Picture
+ 8.606 Why You Should be a Data Science Generalist - and How to Become One
+ 6.016 Comparing Data Sets in One Picture
+ 7.386 Math for Data Science in One Picture
+ 8.746 Statistics for Data Science in One Picture +
+ 7.298 Best Degree for Data Science (in One Picture)
+ 7.246 Business Analytics vs Data Analytics in One Picture
+10.019 Best Languages for Data Science and Statistics in One Picture
+ 6.522 Looking at the Big Picture: The Future of Big Data
+ 9.386 Data Science for Internet of Things - The Big Picture
+ 7.313 Data Science in Marketing – What It Is & How You Can Get Started
+ 6.225 The Role of Data Science in Web Design
+ 9.123 A Complete Tutorial to learn Data Science in R from Scratch
+ 9.134 Data Science in Python: Pandas Cheat Sheet
+ 7.851 Top 20 R Libraries for Data Science in 2018 [Infographic]
+ 7.723 Top 15 Scala Libraries for Data Science in 2018
+ 7.277 Journey Science in Telecom: Take Customer Experience to the Next Level
+
+
+-------------------------------------------
+Group 11
+
+keywords: ('Picture', 'One~Picture', 'in~One~Picture', 'Picture^in', 'in~One', 'One')
+
+Titles with normalized pv on the left:
+
+ 5.743 Getting the Complete Picture from Your Brand’s Social Listening
+ 5.930 Are CEO's Missing out on Big Data's Big Picture?
+ 6.996 Machine Learning: The Bigger Picture
+ 7.988 Theano Tensors Explained in a Picture
+ 6.522 Looking at the Big Picture: The Future of Big Data
+ 9.956 Machine Learning Summarized in One Picture
+ 9.545 R for Big Data in One Picture
+ 9.812 Data Science Summarized in One Picture
+ 9.511 Python for Big Data in One Picture
+ 9.412 Prediction Algorithms in One Picture
+ 8.760 The Future of Data Science in One Picture
+ 9.054 Types of Machine Learning Algorithms in One Picture
+ 7.783 Type I and Type II Errors in One Picture
+ 9.155 Deep Learning versus Machine Learning in One Picture
+10.117 6 Types of Programmers in One Picture
+ 7.643 The Gaussian Correlation Inequality in One Picture
+ 8.959 Deep Learning: AlphaGo Zero Explained In One Picture
+ 8.961 Number Representation Systems Explained in One Picture
+ 9.071 Traditional Programming versus Machine Learning, in One Picture
+ 9.543 Number Representation Systems Explained in One Picture
+ 9.645 Number Representation Systems Explained in One Picture
+ 9.386 Data Science for Internet of Things - The Big Picture
+ 7.238 Demystifying Artificial Intelligence - Explained in One Picture
+ 5.583 5 Minute Analysis: Getting the Whole Picture of Retail Sales 
+ 8.367 3 Types of Regression in One Picture +
+ 8.480 Hypothesis Tests in One Picture 
+ 7.958 EM Algorithm Explained in One Picture +
+ 6.594 K-nn Clustering Explained in One Picture 
+ 7.356 Logistic Regression in One Picture 
+ 8.152 Determining Sample Size in One Picture 
+ 7.538 Ensemble Methods in One Picture +
+ 8.187 SVMs in One Picture 
+ 7.799 A/B testing in One Picture +
+ 8.841 Bayes Theorem in One Picture 
+ 7.579 Naive Bayes in One Picture 
+ 6.625 Determining Number of Clusters in One Picture +
+ 6.930 Confidence Intervals in One Picture 
+ 8.129 Cross Validation in One Picture +
+ 7.636 R-Squared in One Picture 
+ 8.297 Assumptions of Linear Regression in One Picture +
+ 9.049 Regression Analysis in One Picture 
+ 7.096 Z Test / T Test in One Picture 
+ 7.220 Descriptive vs. Inferential Statistics in One Picture 
+ 7.717 Machine Learning vs Statistics vs Statistical Learning in One Picture +
+ 6.950 Correlation Coefficients in One Picture
+ 6.980 Difference Between Correlation and Regression in One Picture
+ 8.387 P-Value Explained in One Picture +
+ 6.016 Comparing Data Sets in One Picture
+ 8.424 Unsupervised Learning Algorithms in One Picture
+ 6.653 Parametric and Non Parametric Bootstrap, Traditional Parametric - Comparison in One Picture
+ 7.441 Standard Deviation versus Standard Error in One Picture +
+ 6.583 List of Time Series Methods in One Picture
+ 7.386 Math for Data Science in One Picture
+ 8.746 Statistics for Data Science in One Picture +
+ 7.000 Predictive Analytics Techniques in One Picture
+ 7.298 Best Degree for Data Science (in One Picture)
+ 7.246 Business Analytics vs Data Analytics in One Picture
+10.019 Best Languages for Data Science and Statistics in One Picture
+ 7.855 Supervised Learning vs Unsupervised & Semi Supervised in One Pi...
+ 8.205 The Internet of Things is Really Only About One Thing
+ 8.800 Solving problems with DataScience for Internet of Things - Part One
+ 7.657 Data Science for Internet of Things methodology - Evolving CRISP-DM - Part One
+ 5.030 Make It So, Number One
+ 8.710 One-page R: a survival guide to data science with R
+ 7.399 Indicator Based Recommenders – The One We Missed
+ 6.157 One-shot Learning with Memory-Augmented Neural Networks
+ 5.069 CPG Industry Levels Playing Field with Power of One
+ 4.489 One important overlooked point here is that significant value
+ 7.194 One Trillion Random Digits 
+ 8.606 Why You Should be a Data Science Generalist - and How to Become One
+ 7.014 One Way vs Two Way ANOVA + Factorial ANOVA: A Comparison in one Pic... 
+ 6.564 Simulating Distributions with One-Line Formulas, even in Excel
+ 5.242 Dynamics 365 vs. SAP Business One: All You Need to Know
+ 7.339 Six AI Strategies – But Only One Winner
+
+
+-------------------------------------------
+Group 1
+
+keywords: ('Explained~in~Simple', 'Part^Statistical', 'Simple^Statistical', 'Statistical~Concepts~Explained', 'Statistical~Concepts', 'Part^Simple', 'Statistical^in', 'Statistical', 'Simple', 'Concepts^Part', 'Explained^Simple', 'English', 'Explained~in', 'Explained', 'Concepts')
+
+Titles with normalized pv on the left:
+
+ 9.438 10 Deep Learning Terms Explained in Simple English
+ 9.546 29 Statistical Concepts Explained in Simple English - Part 1
+ 8.951 25 Statistical Concepts Explained in Simple English - Part 2 
+ 8.540 29 Statistical Concepts Explained in Simple English - Part 3 
+ 8.389 21 Statistical Concepts Explained in Simple English - Part 4 
+ 8.370 27 Statistical Concepts Explained in Simple English - Part 5 
+ 8.804 26 Statistical Concepts Explained in Simple English - Part 6 
+ 7.435 23 Statistical Concepts Explained in Simple English - Part 7 
+ 8.120 31 Statistical Concepts Explained in Simple English - Part 8 
+ 8.460 31 Statistical Concepts Explained in Simple English - Part 9 
+ 8.764 33 Statistical Concepts Explained in Simple English - Part 10 
+ 9.475 32 Statistical Concepts Explained in Simple English - Part 11 
+ 7.595 29 Statistical Concepts Explained in Simple English - Part 12
+ 8.024 29 Statistical Concepts Explained in Simple English - Part 13 
+ 8.172 33 Statistical Concepts Explained in Simple English - Part 14 
+ 6.821 30 Statistical Concepts Explained in Simple English - Part 15 
+ 7.855 39 Statistical Concepts Explained in Simple English - Part 17 
+ 7.179 28 Statistical Concepts Explained in Simple English - Part 18 
+ 9.991 24 Uses of Statistical Modeling (Part I)
+ 7.838 Statistical Significance and Its Part in Science Downfalls
+ 9.056 24 Uses of Statistical Modeling (Part II)
+ 7.712 Data Science Simplified Part 2: Key Concepts of Statistical Learning
+ 7.447 Comparing Model Evaluation Techniques Part 1: Statistical Tools &am... 
+ 8.280 Simple Guide for Selecting Statistical Tests When Comparing Groups
+ 8.320 Ten Simple Rules for Effective Statistical Practice
+ 7.782 Some Irresistible Integrals, Computed Using Statistical Concepts +
+ 7.783 Some Irresistible Integrals, Computed Using Statistical Concepts Updated
+ 6.297 Data Science Simplified Part 4: Simple Linear Regression Models
+ 7.890 A Simple Introduction to Complex Stochastic Processes - Part 2
+ 6.688 Getting Started with NLP: Simple Topic Modeling in R (Part 1)
+ 5.940 Statistical Attribution & Optimization in the B2B World.
+ 7.154 Statistical analysis in Google Sheets
+ 7.717 Machine Learning vs Statistics vs Statistical Learning in One Picture +
+ 9.984 The Death of the Statistical Tests of Hypotheses
+ 8.523 Biased vs Unbiased: Debunking Statistical Myths
+ 7.984 Statistical Mistakes and How to Avoid Them
+ 6.384 A Statistical Approach to Pick the Most Impactful Advertising Channel for Product Marketing
+ 9.470 The Most Common Analytical and Statistical Mistakes
+ 8.384 Book: Neural Networks and Statistical Learning
+ 7.089 Introduction to R: The Statistical Programming Language
+ 7.676 Statistical Modeling; Selecting Predictors is a Challenge for Data Scientists
+ 7.579 Quick Guide to R and Statistical Programming
+ 8.410 9 Off-the-beaten-path Statistical Science Topics with Interesting Applications
+ 7.025 17 Cool Problems with a Statistical Flavor
+ 7.874 Handbook of Statistical Analysis and Data Mining Applications - 2nd Edition
+ 6.528 The “Big Think” on Statistical Inference
+ 6.820 Question about Some Statistical Distributions (Updated)
+ 7.043 Fractional Exponentials - Dataset to Benchmark Statistical Tests
+ 6.661 My Favorite Statistical Procedure? Frequencies!
+ 8.985 Statistical Tests?-?When to use Which ?
+ 5.652 Statistical analysis on the Android platform 
+ 7.944 The 10 Statistical Techniques Data Scientists Need to Master 
+ 7.649 20 Handbooks on Modern Statistical Methods 
+ 8.455 A Plethora of Original, Not Well-Known Statistical Tests 
+ 8.161 New Perspectives on Statistical Distributions and Deep Learning +
+ 7.404 Tutorial: Statistical Tests of Hypothesis 
+ 6.641 Statistical Framework for the classification of ordinal categorical... 
+ 6.422 Statistical Hypothesis Testing – Spinning The Wheel +
+ 8.065 A Strange Family of Statistical Distributions +
+ 7.389 More Weird Statistical Distributions +
+ 6.621 Why Including Effect Size and Knowing your Statistical Power are Important +
+ 7.849 Variance, Attractors and Behavior of Chaotic Statistical Systems
+ 6.351 Beginners Guide To Statistical Cluster Analysis
+ 7.072 Difference between Data Analysis and Statistical Analysis
+10.080 Learning R in Seven Simple Steps
+ 8.040 Detecting Plagiarism with a Simple Trick
+ 7.094 5 Simple Ways Hotels Can Use Data To Increase Revenue
+ 8.223 Simple Proof of the Prime Number Theorem
+ 7.019 Solving Simple Probability Problems with Simulation in R
+ 6.153 Deep Learning Explained - in 4 Simple Facts
+ 8.972 A Simple Introduction to Complex Stochastic Processes
+ 7.404 Simple questions to measure the ability of a data scientist
+ 6.662 A Common Data Analysis Pattern with a Simple Solution in R
+ 6.880 From Data Dictionary to Meta Data with Simple Text Wrangling in Python
+ 6.655 Simple Trick to Prevent Cambridge Analytica and Others to Hack into Facebook Data
+ 8.487 Automated Deep Learning – So Simple Anyone Can Do It
+ 6.136 Data Dictionary to Meta Data II -- Simple Text Wrangling and Factor Creation in R
+ 6.564 Generalized Machine Learning - Kerneml - Simple ML to train Complex ML
+ 6.474 Simple automated feature selection using lm() in R
+ 5.024 Simple Tips for PostgreSQL Query Optimization
+ 7.894 Simple Solution to Feature Selection Problems
+ 7.363 Simple Trick to Remove Serial Correlation in Regression Models 
+ 6.720 7 Simple Tricks to Handle Complex Machine Learning Issues 
+ 7.815 Simple Trick to Normalize Correlations, R-squared, and so on 
+ 4.736 Dare to Start Simple
+ 6.625 SQL: A Supposed English-like Language
+ 7.147 Should Python Become Your Official Corporate Language - Along With English?
+ 8.529 Coding Explained in 25 Profound Comics
+ 7.988 Theano Tensors Explained in a Picture
+ 6.182 Generative Adversarial Networks (GANs) Explained in Layman Terms
+ 9.690 Data Science, Machine Learning, BI Explained in a Amazing Few Pictures
+ 8.961 Number Representation Systems Explained in One Picture
+ 9.543 Number Representation Systems Explained in One Picture
+ 9.645 Number Representation Systems Explained in One Picture
+ 7.238 Demystifying Artificial Intelligence - Explained in One Picture
+ 7.958 EM Algorithm Explained in One Picture +
+ 6.594 K-nn Clustering Explained in One Picture 
+ 8.387 P-Value Explained in One Picture +
+ 6.011 Quantum Supremacy by Google. Explained in Easy way
+ 7.652 10 Common NLP Terms Explained for the Text Analysis Novice
+ 8.959 Deep Learning: AlphaGo Zero Explained In One Picture
+ 8.653 Machine Learning Explained: Understanding Supervised, Unsupervised, and Reinforcement Learning
+ 5.991 The Golden Record: Explained
+ 6.457 Machine Learning Explained: Understanding Supervised, Unsupervised & Reinforcement Learning
+ 5.994 Combining Data Tables - SQL Joins Explained 
+ 6.315 Reinforcement Learning Explained - Overview, Comparisons and Applications in Business
+ 5.889 Visually Explained: Human Vs. Artificial Intelligence - Who Wins The Race?
+ 6.407 Visually Explained: How Can Executives Make Sense of Machine Learning & Deep Learning?
+ 5.303 Visually Explained: What Companies Get Wrong About Failure?
+ 7.724 Four Great Pictures Illustrating Machine Learning Concepts
+ 7.993 An Introduction to Key Data Science Concepts- Infographic
+ 7.499 Basic Statistics Concepts Every Data Scientist Should know 
+ 6.333 Using a Bathroom Faucet to Teach Neural Network Basic Concepts
+ 7.005 Top NLP Algorithms & Concepts +
+
+
+-------------------------------------------
+Group 4
+
+keywords: ('Learning~Algorithms', 'Machine~Learning~Algorithms', 'Algorithms^Machine', 'Algorithms')
+
+Titles with normalized pv on the left:
+
+ 9.356 Top 10 Machine Learning Algorithms
+ 8.163 Essentials of Machine Learning Algorithms (with Python and R Codes)
+ 8.761 Book: Machine Learning Algorithms From Scratch
+ 9.877 Free Courses: Neural Networks, Machine Learning, Algorithms, AI
+ 9.054 Types of Machine Learning Algorithms in One Picture
+ 8.474 27 Great Articles About Machine Learning Algorithms
+ 8.899 10 Machine Learning Algorithms You Should Know in 2018
+ 7.316 New Book: Mastering Machine Learning Algorithms
+ 7.415 Ten Machine Learning Algorithms You Should Know 
+ 6.713 Introduction to Various Reinforcement Learning Algorithms
+ 8.424 Unsupervised Learning Algorithms in One Picture
+ 6.578 Mastering Machine Learning Algorithms - Second Edition
+ 7.422 Machine Learning: An In-Depth Guide - Overview, Goals, Learning Types, and Algorithms
+ 6.959 Machine Learning and Its Algorithms to Know – MLAlgos
+ 7.805 Fuzzy Matching Algorithms To Help Data Scientists Match Similar Data
+ 8.918 Facebook Shares Large Data Sets to Help Improve its AI and Data Science Algorithms
+ 5.730 Using Genetic Algorithms to Optimize Legal Costs
+10.621 12 Algorithms Every Data Scientist Should Know
+10.625 12 Algorithms Every Data Scientist Should Know
+ 7.221 Defeating Email Monitoring Algorithms
+ 9.412 Prediction Algorithms in One Picture
+ 8.233 Using Algorithms to Detect Fake News – The State of the Art
+ 6.641 Using Uninformed & Informed Search Algorithms to Solve 8-Puzzle (n-Puzzle) in Python
+ 8.001 The 10 Algorithms Machine Learning Engineers Need to Know
+ 8.631 Recommendation System Algorithms
+ 5.170 13,500 Nastygrams to Train Algorithms to Detect Undesirable Content
+ 7.533 Logistic Map, Chaos, Randomness and Quantum Algorithms
+ 6.713 13 Great Articles About K-Nearest-Neighbors And Related Algorithms
+ 8.267 Data or Algorithms – Which is More Important?
+ 6.103 Using Algorithms to Identify Serial Killers
+ 8.018 Neural Network Algorithms - Learn How To Train ANN
+ 6.664 Some Reinforcement Learning: The Greedy and Explore-Exploit Algorithms for the Multi-Armed Bandit Framework in Python
+ 7.463 Most Popular Text Analytics Tools and Algorithms
+ 5.976 Clustering – Algorithms for Partitioning and Assignments 
+ 6.001 Can AI Algorithms be Fooled? 
+ 5.628 Free eBook: Graph Algorithms: Practical Examples in Apache Spark an... 
+ 6.755 New book: Advanced Data Structures and Algorithms for Big Data Appl... 
+ 6.286 Visualizing and Animating Optimization Algorithms with Matplotlib 
+ 5.710 R-CNN, Fast R-CNN, Faster R-CNN, YOLO - Object Detection Algorithms
+ 6.472 5 Algorithms to Train a Neural Network
+ 5.940 A Comprehensive Guide to Stochastic Gradient Descent Algorithms
+ 7.005 Top NLP Algorithms & Concepts +
+ 5.778 Movies in which our beloved Algorithms show up
+ 8.368 Key Graph Based Shortest Path Algorithms - Part 1: Dijkstra's And Bellman-Ford +
+ 6.438 Shortest Path Algorithms, Part 2: Floyd–Warshall's And A-Star +
+ 5.541 New Books and Resources About K-Nearest Neighbors Algorithms
+ 6.582 Scikit-learn Classification Algorithms
+
+
+-------------------------------------------
+Group 2
+
+keywords: ('Learning^Science', 'Machine^Science', 'Science~and~Machine', 'Learning^and', 'and~Machine~Learning', 'Data^Machine', 'Data^Learning')
+
+Titles with normalized pv on the left:
+
+ 8.546 Top Algorithm, Data Science, Big Data and Machine Learning Experts
+ 7.976 BIG Data & Analytics, Data Science, Machine Learning - Random Insights!
+ 8.485 The spectacular growth of Data Science, Machine Learning, Deep Learning, IoT, and AI
+ 9.585 The Guide to Learning Python for Data Science
+ 8.416 Curated Lists of Data Science, Machine Learning, Deep Learning and NLP resources
+ 7.441 Data Science & Machine Learning Encyclopedia - 4,000 Entries
+10.025 Hitchhiker's Guide to Data Science, Machine Learning, R, Python
+ 6.902 Exclusive Learning Drive–Python for Data Science
+ 6.299 Data Science 101: The Rise and Shine of Machine Learning
+ 9.379 Top 10 IPython Tutorials for Data Science and Machine Learning
+ 7.991 A Plethora of Data Science and Machine Learning Books
+ 5.252 DataViZ, Data Science and Machine Learning White Papers - Part 3
+ 6.495 DataViZ, Data Science and Machine Learning White Papers - Part 4
+ 9.229 Learning Python For Data Science
+ 7.969 Top 10: Data Science and Machine Learning Articles in July
+ 7.867 47 New External Data Science / Machine Learning Resources and Articles
+ 7.783 My Best Data Science, Machine Learning and Related Articles
+ 8.568 10 Data Science, Machine Learning and IoT Predictions for 2017
+10.974 Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics
+ 7.114 Machine Learning, Data Science, and Unicorns
+ 9.690 Data Science, Machine Learning, BI Explained in a Amazing Few Pictures
+ 7.649 Difference of Data Science, Machine Learning and Data Mining
+ 8.560 40 Interview Questions asked at Startups in Machine Learning / Data Science
+ 6.491 Programming Languages widely used in Data Science and Machine Learning ?
+ 9.309 Data Science and Machine Learning Without Mathematics
+ 7.712 Data Science Simplified Part 2: Key Concepts of Statistical Learning
+ 9.271 Python Overtakes R for Data Science and Machine Learning
+ 8.435 47 New External Data Science / Machine Learning Resources and Articles
+ 5.953 Ranking Popular Deep Learning Libraries for Data Science
+ 7.042 21 Curated Blogs About Deep Learning and Data Science
+ 9.131 6 Predictions about Data Science, Machine Learning, and AI for 2018
+ 8.126 Supervised Learning Use Cases: Low-Hanging Fruit in Data Science for Businesses
+ 7.655 Data Science, Machine Learning, and AI Conferences and Events 2018
+ 7.309 44 Original Data Science and Machine Learning Articles
+ 8.613 15 Data Science and Machine Learning Courses from Top Schools
+ 8.872 Data Science and Machine Learning: Great List of Resources
+ 8.703 General Myths to avoid in Data Science and Machine Learning
+ 6.833 Learning Mathematics for Data Science 
+ 8.326 5 Predictions about Data Science, Machine Learning, and AI for 2019 
+ 7.144 State of Data Science & Machine Learning in 2018 
+ 8.808 The Mathematics of Data Science - Understanding the foundations of Deep Learning through Linear Regression
+12.379 Machine Learning and Data Science Cheat Sheet 
+ 6.907 MS Data Science vs MS Machine Learning / AI vs MS Analytics +
+ 9.236 Step-by-step video courses for Deep Learning and Machine Learning
+ 8.980 34 External Machine Learning Resources and Related Articles
+ 8.641 43 New External Machine Learning Resources and Updated Articles
+ 9.242 Step-by-step video courses for Deep Learning and Machine Learning
+ 6.446 What's a CFO's Biggest Fear, and How can Machine Learning help?
+ 8.771 11 Deep Learning Articles, Tutorials and Resources
+ 8.286 Benchmarking 20 Machine Learning Models Accuracy and Speed
+ 7.332 32 New External Machine Learning Resources and Updated Articles
+ 6.623 On-going Developments and Outlook for Deep Learning
+ 9.234 Deep Learning for Everyone – and (Almost) Free
+ 8.163 Essentials of Machine Learning Algorithms (with Python and R Codes)
+ 7.890 Accelerated Computing and Deep Learning
+ 7.206 Machine Learning: what it means and why it is the future of growth
+ 7.422 Machine Learning: An In-Depth Guide - Overview, Goals, Learning Types, and Algorithms
+ 8.384 Book: Neural Networks and Statistical Learning
+ 9.452 Open Source Deep Learning Frameworks and Visual Analytics
+ 8.571 Quantum Computing and Deep Learning. How Soon? How Fast?
+ 7.292 Keras: Deep Learning library for Theano and TensorFlow
+ 6.578 Machine Learning Translation and the Google Translate Algorithm
+ 6.157 Big Data and Machine Learning:
+ 8.196 Accelerated Computing and Deep Learning
+ 5.231 Nuts and Bolts of Building Deep Learning Applications: Ng @ NIPS2016
+ 7.509 Some Deep Learning with Python, TensorFlow and Keras
+ 8.545 7 Books About Machine Learning, Statistics, and Python
+ 7.940 Machine Learning Guide and Tutorial for Software Engineers
+ 6.775 Using Real Time Marketing and Machine Learning based Analytics to Drive Customer Value Management
+ 8.653 Machine Learning Explained: Understanding Supervised, Unsupervised, and Reinforcement Learning
+ 6.335 Big Data and Machine Learning (Google case)
+ 7.132 Soccer and Machine Learning: 2 hot topics for 2018
+ 6.664 Some Reinforcement Learning: The Greedy and Explore-Exploit Algorithms for the Multi-Armed Bandit Framework in Python
+ 5.805 Demystifying AI, Machine Learning and Deep Learning
+ 7.991 How to Execute R and Python in SQL Server with Machine Learning Services
+ 8.937 Free eBooks on Data Visualization and Machine Learning
+ 6.918 Model Serving: Stream Processing vs. RPC / REST - A Deep Learning Example with TensorFlow and Kafka
+ 6.271 Overview and Classification of Machine Learning Problems
+ 6.303 Learn How to Code and Deploy Machine Learning Models on Spark Structured Streaming
+ 6.524 Reinforcement Learning: Super Mario, AlphaGo and beyond 
+ 5.838 Lecture slides: Introduction to Adjoint Differentiation and Back-Propagation - in Machine Learning and Finance
+ 7.539 AI and Deep Learning Books - October 2018 
+ 8.453 Learn Machine Learning Coding Basics in a Weekend - Glossary and Mindmap
+ 8.161 New Perspectives on Statistical Distributions and Deep Learning +
+ 6.315 Reinforcement Learning Explained - Overview, Comparisons and Applications in Business
+ 5.916 Machine Learning : Unsupervised – Hierarchical Clustering and Boots... 
+ 6.822 Machine Learning in Agriculture: Applications and Techniques 
+ 7.128 The Mathematics behind Artificial Intelligence and Deep Learning 
+ 6.324 How GANs and Adaptive Content Will Change Learning, Entertainment a...
+ 7.986 Jupyter Notebooks: Fundamentals of Machine Learning and Deep Learning
+ 8.395 Machine Learning and Deep Learning Textbook - Cornell University
+ 6.335 AAD, Backpropagation and Machine Learning in Finance
+ 6.420 Bayes, Ockham, Shannon and Machine Learning
+ 6.524 Machine Learning and AI in Food Industry: Solutions and Potential
+ 6.989 Gartner and Forrester Weigh in on Automated Machine Learning
+ 6.133 TensorFlow 2.0 and Python Machine Learning book
+ 6.395 Deep Learning from first principles in Python, R and Octave
+ 6.163 Machine Learning in Finance: Benefits, Use Cases and Opportunities
+ 7.484 12 Thought AI and Machine Learning Leaders on LinkedIn
+ 6.589 Human Learning and Machine Learning - How they differ ?
+ 5.447 Predictive Analytics and Machine Learning in Retail Industry
+ 4.331 Web Personalisation with Drupal and Machine Learning
+ 7.944 Introduction to Machine Learning / Data Mining
+ 6.333 Data Scientist in a Machine ? Part I
+ 7.442 Book: Fundamentals of Machine Learning for Predictive Data Analytics - MIT Press
+ 8.678 From Data Analysis to Machine Learning
+ 8.068 Machine Learning Skills Among Data Scientists
+ 9.621 10 Machine Learning Methods that Every Data Scientist Should Know 
+ 6.452 Federated Machine Learning - Collaborative ML without Centralised Training Data
+ 5.220 Refined Data is the Key to Train Machine Learning
+ 5.740 Unsupervised Learning an Angle for Unlabelled Data World
+ 4.673 Learning Path to Become a Data Scientist for ASP.NET Developers 
+ 7.860 Data Science Learning Path For Complete Beginners 
+ 5.892 Data Science: Learning from the Mistakes
+
+
+-------------------------------------------
+Group 5
+
+keywords: ('Great~Articles', 'Great~Articles~About', 'Articles~About', 'About^Great')
+
+Titles with normalized pv on the left:
+
+ 7.507 Last Great Articles of 2015
+ 7.963 13 Great Articles and Tutorials about Correlation
+ 7.597 14 Great Articles and Tutorials on Clustering
+ 8.424 26 Great Articles and Tutorials about Regression Analysis
+ 7.933 21 Great Articles and Tutorials on Time Series
+ 7.672 20 Great Articles about AI
+ 7.565 11 Great Articles About Natural Language Processing (NLP)
+ 6.612 13 Great Articles from AnalyticBridge
+ 5.897 12 Great Articles from Big Data News
+ 6.743 Six Great Articles About Quantum Computing and HPC
+ 7.926 7 Great Articles About TensorFlow
+ 7.475 15 Great Articles About Decision Trees
+ 6.886 14 Great Articles About Cross-Validation, Model Fitting and Selection
+ 7.308 18 Great Articles About Predictive Analytics
+ 8.474 27 Great Articles About Machine Learning Algorithms
+ 7.565 22 Great Articles About Statistics - For Data Scientists
+ 6.713 13 Great Articles About K-Nearest-Neighbors And Related Algorithms
+ 8.289 22 Great Articles About Neural Networks
+ 6.326 17 Great Articles Posted in the last 12 Months
+ 7.421 10 Great Articles about Stochastic Processes and Related Topics
+ 7.034 22 Great Articles and Tutorials on Classification Methods
+ 9.547 19 Great Articles About Natural Language Processing (NLP) 
+ 8.280 15 Great Articles about Bayesian Methods and Networks 
+ 9.568 34 Great Articles and Tutorials on Clustering 
+ 8.845 25 Great Articles and Tutorials on Classification Methods
+ 6.498 Six Articles About Hadoop, IoT, AI, DataViZ, and NLP
+ 8.467 20 Interesting Articles About Excel
+ 7.203 12 Great Curated Blogs About Data Science
+ 7.546 27 Great Resources About Logistic Regression
+
+
+-------------------------------------------
+Group 14
+
+keywords: ('Deep^Machine', 'Learning^Machine', 'Deep^Learning')
+
+Titles with normalized pv on the left:
+
+ 9.236 Step-by-step video courses for Deep Learning and Machine Learning
+ 8.485 The spectacular growth of Data Science, Machine Learning, Deep Learning, IoT, and AI
+ 9.242 Step-by-step video courses for Deep Learning and Machine Learning
+ 8.688 Deep Learning: Definition, Resources, Comparison with Machine Learning
+ 8.416 Curated Lists of Data Science, Machine Learning, Deep Learning and NLP resources
+ 9.042 AI vs Deep Learning vs Machine Learning
+ 8.928 Has Deep Learning Made Traditional Machine Learning Irrelevant?
+10.974 Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics
+ 9.155 Deep Learning versus Machine Learning in One Picture
+ 5.635 A Comparative Roundup: Artificial Intelligence vs. Machine Learning vs. Deep Learning
+ 7.168 Artificial Intelligence vs. Machine Learning vs. Deep Learning
+ 5.805 Demystifying AI, Machine Learning and Deep Learning
+ 6.715 AI vs. Machine Learning vs. Deep Learning: What is the Difference? 
+ 7.986 Jupyter Notebooks: Fundamentals of Machine Learning and Deep Learning
+ 8.395 Machine Learning and Deep Learning Textbook - Cornell University
+ 6.407 Visually Explained: How Can Executives Make Sense of Machine Learning & Deep Learning?
+ 7.422 Machine Learning: An In-Depth Guide - Overview, Goals, Learning Types, and Algorithms
+ 8.653 Machine Learning Explained: Understanding Supervised, Unsupervised, and Reinforcement Learning
+ 6.457 Machine Learning Explained: Understanding Supervised, Unsupervised & Reinforcement Learning
+ 6.953 From Machine Learning to Machine Unlearning
+ 6.435 What is Machine Learning? Why Machine Learning?
+ 7.717 Machine Learning vs Statistics vs Statistical Learning in One Picture +
+ 6.589 Human Learning and Machine Learning - How they differ ?
+ 6.879 Deep Learning (DL) versus Analysis Learning (AL)
+ 6.575 RNNoise: Learning Noise Suppression with Deep Learning
+
+
+-------------------------------------------
+Group 17
+
+keywords: ('One~Picture~+', '+^One', '+^in')
+
+Titles with normalized pv on the left:
+
+ 8.367 3 Types of Regression in One Picture +
+ 7.958 EM Algorithm Explained in One Picture +
+ 7.538 Ensemble Methods in One Picture +
+ 7.799 A/B testing in One Picture +
+ 6.625 Determining Number of Clusters in One Picture +
+ 8.129 Cross Validation in One Picture +
+ 8.297 Assumptions of Linear Regression in One Picture +
+ 7.717 Machine Learning vs Statistics vs Statistical Learning in One Picture +
+ 8.387 P-Value Explained in One Picture +
+ 7.441 Standard Deviation versus Standard Error in One Picture +
+ 8.746 Statistics for Data Science in One Picture +
+ 7.014 One Way vs Two Way ANOVA + Factorial ANOVA: A Comparison in one Pic... 
+ 6.983 Data Engineers: Nobody Puts Baby in a Corner! +
+ 6.877 An Application of Data Science and Mathematics in Finance +
+ 7.618 Applying Machine Learning Techniques in Quantitative Finance +
+ 6.978 A guide for using the Wavelet Transform in Machine Learning +
+ 5.707 How to Flourish in Industry 4.0, the Fourth Industrial Revolution +
+ 8.738 Fascinating New Results in the Theory of Randomness (Updated, long article) +
+ 6.597 Best 2019 Paper Awards in Computer Vision +
+ 7.182 How to build a deep learning model in 15 minutes +
+
+
+-------------------------------------------
+Group 6
+
+keywords: ('data~scientist', 'scientist', 'a~data~scientist', 'a~data')
+
+Titles with normalized pv on the left:
+
+ 7.965 A data scientist shares his passions
+ 7.758 List of top companies hiring data scientist in 2016
+10.687 Salary history and career path of a data scientist
+ 7.148 Reasons to hire a Director of Data Science before hiring your first data scientist
+ 8.659 How to think like a data scientist to become one
+ 7.416 What makes a great data scientist?
+ 8.246 What to look for when hiring an entry-level data scientist?
+ 7.324 What does it take to be data scientist at Uber
+ 7.448 The day when the computer becomes a data scientist
+ 7.404 Simple questions to measure the ability of a data scientist
+ 6.402 How can I become a data scientist?
+10.079 Is it still possible today to become a self-taught data scientist?
+ 9.217 How do you identify an actual data scientist?
+ 6.225 10 signs you might be ready to let your inner data scientist out 
+ 7.300 Prerequisites to become a data scientist in 2019 
+ 8.993 Julia vs R: Freeing the data scientist from the curse of vectoRization 
+10.222 Data scientist paid $500k can barely code!
+ 6.422 Combining data from different sources into a data set
+ 7.191 How Python fares as a data science language?
+ 9.018 Opinion: Is a PhD helpful for a data science career? 
+ 6.192 Question: Recommendation on a data visualization book
+
+
+-------------------------------------------
+Group 16
+
+keywords: ('of~Deep', 'of~Deep~Learning')
+
+Titles with normalized pv on the left:
+
+ 7.387 Applications of Deep Learning
+ 6.806 Limitations of Deep Learning and strategic observations
+ 8.653 Concise Visual Summary of Deep Learning Architectures
+ 8.885 Goodbye Age of Hadoop – Hello Cambrian Explosion of Deep Learning
+ 7.356 What are the Limits of Deep Learning?
+ 7.981 A simplified explanation for Understanding the Mathematics of Deep ... 
+ 8.808 The Mathematics of Data Science - Understanding the foundations of Deep Learning through Linear Regression
+ 7.685 [New] Handbook of Deep Learning Applications (Springer) 
+ 7.458 Math of Deep Learning: Free Chapter from 832-page eBook
+ 6.648 New Theory Cracks Open the Black Box of Deep Learning
+
+
+-------------------------------------------
+Group 7
+
+keywords: ('An~Introduction', 'An~Introduction~to', 'An^to')
+
+Titles with normalized pv on the left:
+
+ 8.962 An Introduction to Variable and Feature Selection
+ 7.681 An Introduction to Implementing Neural Networks using TensorFlow
+ 7.426 An Introduction to Clustering and different methods of clustering
+ 7.993 An Introduction to Key Data Science Concepts- Infographic
+ 6.867 Data Science Simplified Part 10: An Introduction to Classification Models
+ 6.248 An Introduction to Clustering and different methods of clustering
+ 8.846 An Introduction to Implementing Neural Networks using TensorFlow
+ 9.313 Implementing a Neural Network from Scratch in Python – An Introduction
+ 7.818 An Introduction to Bayesian Reasoning 
+ 6.111 An Introduction to Python Virtual Environment 
+ 6.958 Machine Learning: An Analytical Invitation to Actuaries
+ 8.988 An absolute beginner’s guide to machine learning, deep learning, and AI
+ 6.731 An NLP Approach to Analyzing Twitter, Trump, and Profanity
+ 6.919 An Intro to Predictive Analytics: Can I predict the future?
+ 7.450 An executive’s guide to machine learning
+ 7.148 An Executive Primer to Deep Learning
+ 7.243 Cool Video: An Unexpected Use of AI and IoT to Enjoy Music
+ 8.183 Data Fallacies to Avoid | An Illustrated Collection of Mistakes People Often Make When Analyzing Data
+ 6.991 An Intro to Natural Language Processing in Python: Framing Text Classification in Familiar Terms
+ 8.125 An elegant way to represent back & forward propagation in neural networks
+
+
+-------------------------------------------
+Group 12
+
+keywords: ('Learning~vs', 'Machine^vs', 'Machine~Learning~vs')
+
+Titles with normalized pv on the left:
+
+ 9.042 AI vs Deep Learning vs Machine Learning
+ 8.242 Machine Learning vs. Traditional Statistics: Different philosophies, Different Approaches
+ 9.422 Machine Learning vs. Traditional Statistics: Different philosophies, Different Approaches
+ 5.635 A Comparative Roundup: Artificial Intelligence vs. Machine Learning vs. Deep Learning
+ 7.168 Artificial Intelligence vs. Machine Learning vs. Deep Learning
+ 6.715 AI vs. Machine Learning vs. Deep Learning: What is the Difference? 
+ 7.717 Machine Learning vs Statistics vs Statistical Learning in One Picture +
+ 7.855 Supervised Learning vs Unsupervised & Semi Supervised in One Pi...
+ 9.185 Python vs R: 4 Implementations of Same Machine Learning Technique
+ 6.907 MS Data Science vs MS Machine Learning / AI vs MS Analytics +
+
+
+-------------------------------------------
+Group 10
+
+keywords: ('Data~Scientists', 'Scientists', 'for~Data~Scientists', 'Scientists^for')
+
+Titles with normalized pv on the left:
+
+ 7.805 Fuzzy Matching Algorithms To Help Data Scientists Match Similar Data
+ 6.639 Stop Hiring Data Scientists Until You're Ready for Data Science
+ 7.687 9 Points For Data Scientists
+ 9.201 Data Scientists Automated and Unemployed by 2025!
+ 8.391 Will We Soon No Longer Need Data Scientists?
+ 7.698 Four Recent Salary Surveys for Data Scientists
+10.294 40 Techniques Used by Data Scientists
+ 7.737 Why Good Data Scientists are Worth the Big Bucks
+ 8.747 10 Blogs from Rock-star Data Scientists
+ 6.009 What is the right mix of competences for Data Scientists?
+ 6.930 A Relocation Guidebook for Data Scientists and More
+ 7.701 8 Essential Tools for Data Scientists
+ 9.359 Difference Between Data Scientists, Data Engineers, and Software Engineers - According To LinkedIn
+ 9.336 46 SQL Job Interview Questions for Data Scientists
+ 8.355 Interview with Two Women Data Scientists
+ 7.912 What type are you? Six Job Categories for Data Scientists
+ 8.068 Machine Learning Skills Among Data Scientists
+ 8.202 Reading List for Data Scientists
+ 9.025 Data Scientists Automated and Unemployed by 2025 - Update!
+ 7.676 Statistical Modeling; Selecting Predictors is a Challenge for Data Scientists
+ 7.565 22 Great Articles About Statistics - For Data Scientists
+ 6.540 Data Scientists - Are You Prepared For Your Next Interview?
+ 7.254 Data Scientists - How To Perfect Your Resume!
+ 7.738 The Difference between Data Scientists, Data Engineers, Statisticians, and Software Engineers
+ 9.222 Data Science is Changing and Data Scientists will Need to Change Too – Here’s Why and How
+ 6.792 Aspiring Data Scientists - Get Hired!
+ 5.826 Data Scientists need designer labels too
+ 7.335 5 Pro-Tips For Data Scientists To Write Good Code
+ 8.777 Sample Projects for Data Scientists in Training
+ 6.140 Data Scientists 4.0
+ 9.454 5 Myths About PhD Data Scientists
+ 7.107 This is Why Data Scientists Make So Much
+ 8.682 New Decimal Systems - Great Sandbox for Data Scientists and Mathematicians
+ 9.041 How Data Scientists Spend their Time - Nice Cartoon
+ 7.092 Why You Should Encourage Your Daughters to Become Data Scientists
+10.099 22 Differences Between Junior and Senior Data Scientists
+ 9.692 Four Types of Data Scientists
+ 6.828 Can Artificial Intelligence replace Data Scientists? 
+ 7.988 Python Vs R : The Eternal Question for Data Scientists 
+ 8.233 The Best Opportunities in AI for Data Scientists 
+ 6.317 Advertising & Marketing Fundamentals For Data Scientists 
+ 5.595 Question: 1099 C2C contracts for Data Scientists?
+ 7.256 AI/ML Future in Healthcare - not the Way Data Scientists See It
+ 7.944 The 10 Statistical Techniques Data Scientists Need to Master 
+ 6.781 Apache Kafka + KSQL + TensorFlow for Data Scientists - via Python + Jupyter Notebook
+ 6.244 Getting to Know Keras for New Data Scientists 
+ 5.198 Are Successful Data Scientists Hired or Trained? 
+ 6.540 Challenges Faced by Data Scientists and How to Overcome Them
+ 7.690 A Majority of Data Scientists Lack Competency in Advanced ML
+ 5.595 A Pivotal Year for Data Scientists - 2020
+ 6.944 For AI Engineers/Data Scientists: Implementing Enterprise AI course
+ 5.802 Are Scientists Doing Too Much Research?
+
+
+-------------------------------------------
+Group 15
+
+keywords: ('Naive', 'Naive~Bayes', 'Bayes')
+
+Titles with normalized pv on the left:
+
+ 8.791 The Naive Bayes Classifier explained
+ 7.520 Naive Bayes Classification explained with Python code
+ 7.634 Naive Bayes Process At a Glance
+ 8.026 Loan Prediction – Using PCA and Naive Bayes Classification with R
+ 6.553 Naive Principal Component Analysis in R
+ 8.317 6 Easy Steps to Learn Naive Bayes Algorithm (with code in Python)
+ 6.503 Naive Bayes Classification in R (Part 1)
+ 7.579 Naive Bayes in One Picture 
+ 8.078 Comparing Classifiers: Decision Trees, K-NN & Naive Bayes 
+ 6.777 Naive Bayes Classifier using Kernel Density Estimation (with example) +
+ 8.316 Sentiment Analysis with Naive Bayes and LSTM
+ 6.176 Double-Yolk "Bayesian Egg": Bayes, Frequentist and a 250 years-old puzzle
+ 6.460 Unfolding Naïve Bayes from Scratch 
+ 8.841 Bayes Theorem in One Picture 
+ 6.420 Bayes, Ockham, Shannon and Machine Learning
+
+
+-------------------------------------------
+Group 18
+
+keywords: ('Step', 'Step~by')
+
+Titles with normalized pv on the left:
+
+ 9.236 Step-by-step video courses for Deep Learning and Machine Learning
+ 9.242 Step-by-step video courses for Deep Learning and Machine Learning
+ 9.896 Learn Python in 3 days : Step by Step Guide
+ 6.795 First Step to Become Data Scientist
+ 7.394 Power BI in 10 Minutes: Step-by-Step Guide 
+ 5.438 Google Data Studio in 10 minutes: Step-by-Step Guide 
+ 7.337 Tableau in 10 Minutes: Step-by-Step Guide 
+ 6.328 Forecasting through ARIMA Modeling using R – Step-by-step Guide
+
+
+-------------------------------------------
+Group 19
+
+keywords: ('Getting~Started', 'Getting~Started~with')
+
+Titles with normalized pv on the left:
+
+ 7.993 Python: Getting Started with Data Science
+ 8.277 Getting Started with Regression in R
+ 6.548 Getting Started with GraphLab For Machine Learning in Python
+ 8.332 Getting Started with Deep Learning
+ 6.922 Tensorflow Tutorial : Part 2 – Getting Started
+ 6.688 Getting Started with NLP: Simple Topic Modeling in R (Part 1)
+ 8.328 New Notebook: Getting Started with TensorFlow 2.0
+
