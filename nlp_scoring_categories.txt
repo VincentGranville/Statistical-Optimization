@@ -1,0 +1,31 @@
+=== CATEGORIES: titles count, pv, category name
+
+ 1545  9.894 DSC~blog
+  113 10.985 DSC~blog~Vincent Granville
+ 1568 10.475 DSC~resource
+   45 10.217 Other~resource
+   62  9.814 Other~blog
+   75 11.013 DSC~blog~Bill Vorhies
+  311 11.392 DSC~resource~Vincent Granville
+    2 10.755 DSC~resource~Bill Vorhies
+   62  9.893 DSC~blog~Ronald van Loon
+    3 10.879 Other~blog~Vincent Granville
+    1 10.951 Other~resource~Vincent Granville
+  107 10.187 DSC~blog~Bill Schmarzo
+    3 10.869 DSC~resource~Bill Schmarzo
+   87 11.175 DSC~blog~William Vorhies
+    2 11.844 DSC~resource~William Vorhies
+   10 10.748 DSC~blog~Capri Granville
+   54 11.711 DSC~resource~Capri Granville
+  209  9.437 DSC~forum_question
+   17 10.763 DSC~forum_question~Vincent Granville
+    7 10.268 DSC~forum_question~Capri Granville
+   19 10.718 DSC~blog~Igor Bobriakov
+   35 10.775 DSC~resource~Igor Bobriakov
+   45 11.531 DSC~resource~Stephanie Glen
+   19 10.113 DSC~forum_question~Bill Schmarzo
+    7  9.376 DSC~forum_question~Ronald van Loon
+   21 11.095 DSC~forum_question~William Vorhies
+    5 10.168 DSC~forum_question~Igor Bobriakov
+    2 11.739 DSC~forum_question~Stephanie Glen
+    9 11.554 DSC~blog~Stephanie Glen
